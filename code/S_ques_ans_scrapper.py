@@ -11,7 +11,7 @@ def get_ques_ans():
         c=0
         questions=[]
         answers=[]
-        while soup!=None:
+        while c<90:
                 c=c+10
                 if c>10:
                         ques = soup.find_all('a', {'data-parent': "#accordion"})
@@ -40,6 +40,7 @@ with open('ques_ans.json', 'r') as f:
 
     questions,answers=get_ques_ans()
     for i in len(questions):
+            print i
             if c not in qadict:
                 qadict[c]={}
                 if 'ques' not in qadict[c]:
