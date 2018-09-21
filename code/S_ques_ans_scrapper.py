@@ -18,6 +18,8 @@ def get_ques_ans():
                         for q in ques:
                                 q1=q.text.split('<')[0].split("View Answer")[0].split(".")[1:]
                                 qs='.'.join(q1).strip()
+                                print qs
+                                print '\n'
                                 questions.append(qs)
                                 
                         ans  = soup.find_all('div', {'style': "margin: 0 0 10px;"})
@@ -39,7 +41,7 @@ with open('ques_ans.json', 'r') as f:
     c=c+1
 
     questions,answers=get_ques_ans()
-    for i in len(questions):
+    for i in range(len(questions)):
             print i
             if c not in qadict:
                 qadict[c]={}
