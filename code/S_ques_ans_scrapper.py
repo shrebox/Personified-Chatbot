@@ -6,7 +6,7 @@ import urlparse
 import random
 import json
 
-def get_ques_ans():    
+def get_ques_ans():
         soup = BeautifulSoup(requests.get('http://www.abdulkalam.com/kalam/theme/jsp/guest/QuestionAnswers.jsp?startIndex=0&txtnumrec=10').text, "html.parser")
         c=0
         questions=[]
@@ -18,17 +18,11 @@ def get_ques_ans():
                         for q in ques:
                                 q1=q.text.split('<')[0].split("View Answer")[0].split(".")[1:]
                                 qs='.'.join(q1).strip()
-                                print qs
-                                print '\n'
                                 questions.append(qs)
                                 
                         ans  = soup.find_all('div', {'style': "margin: 0 0 10px;"})
-                        cc=1
                         for a in ans:
-                                if cc>1:
-                                        answers.append(a.text.split("</p>")[0].split("Answer:")[1].strip().replace('\r','').replace('\n',''))
-                                cc=cc+1
-                                
+                                answers.append(a.text.split("</p>")[0].split("Answer:")[1].strip().replace('\r','').replace('\n',''))
                 soup = BeautifulSoup(requests.get('http://www.abdulkalam.com/kalam/theme/jsp/guest/QuestionAnswers.jsp?startIndex='+str(c)+'&txtnumrec=10').text, "html.parser")
 
         return questions,answers
@@ -41,6 +35,7 @@ with open('ques_ans.json', 'r') as f:
     c=c+1
 
     questions,answers=get_ques_ans()
+  
     for i in range(len(questions)):
             print i
             if c not in qadict:
