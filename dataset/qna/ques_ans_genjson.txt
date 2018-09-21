@@ -1,0 +1,753 @@
+ques_ans_genjson.txt
+S
+
+Type
+Text
+Size
+36 KB (36,691 bytes)
+Storage used
+0 bytesOwned by iiitd.ac.in
+Location
+dataset
+Owner
+Sarthika Dhawan
+Modified
+2:54 PM by Sarthika Dhawan
+Opened
+6:33 PM by me
+Created
+2:54 PM
+Add a description
+Viewers can download
+1
+  ques= What is your reaction to your selection as NDA nominee for President?
+  ans= I am overwhelmed by the gesture. Being the President of India is an onerous task.
+  tag= ab
+
+2
+  ques= Many say you are being made president because of your religion.
+  ans= Really? To be honest I never thought of it that way at all. I have always regarded myself as an Indian.
+  tag= ab
+
+3
+  ques= What sort of a role would you like to play?
+  ans= For any president the major task is thinking of the best way to integrate the nation. While speaking to 3,000 children in Porbandar recently a young girl asked me what my message was to them. I told her that our minds should be embedded with thoughts of the nation and that the nation is always bigger than the individual. I think that message is relevant here too.
+  tag= ab
+
+4
+  ques= Does being a scientist equip you in any way to perform your new duties?
+  ans=  No doubt, this will be a new type of mission. But essentially it is all about leadership and that is something we were trained for, even if the missions may have been different. We had a systems approach of careful analysis, design and integration that is relevant for any type of task. Also, we were not confined to conducting scientific research. We looked at the overall development of the nation.
+  tag=  ab
+
+5
+  ques= But you have never handled the intricacies of politics.
+  ans= Really? To be honest I never thought of it that way at all. I have always regarded myself as an Indian.
+  tag= ab
+
+6
+  ques= Many say you are being made president because of your religion.
+  ans= My own definition of politics is that it is all about creating leaders to evolve policies that will take the country to higher levels. It is a multi-dimensional leadership that focuses on the nation's economic, social and political development. If you look at politics through this perspective then everything falls into place.
+  tag= ab
+
+7
+  ques=  How do you view the current tensions between India and Pakistan?
+  ans= I have not had time to study this thoroughly. All I would like to say at this moment is that India is a strong nation. That its strength doesn't come just from its weapons, but from its economic development and maturity in politics.
+  tag= ab
+
+8
+  ques=  As president you would have to do things you never really enjoyed doing-like dressing formally and hosting formal dinners. Are you ready to change?
+  ans= (Laughs) Let us say it will be a new experience. Besides, you can achieve a lot of work even while having dinner.
+  tag= ab
+
+9
+  ques= Sir, on August 15, 1947, you were only 16 years old. Where were you on that particular day? How did people react in the streets? How did they celebrate the sudden freedom of India from the centuries old bondage of British rule?
+  ans= Well, it’s a beautiful question. I was born in the small island town of Rameshwaram where I completed my primary school education in the Panchayat school. I went to a slightly bigger town 40 minutes away from Rameshwaram, for my high school studies. At that time only the great event took place for the nation. My teacher, Reverend Teri Solomon, told all of our class boys that they must attend the midnight celebration on 15th August 1947, in the quadrangle of the school. Since I was the school leader, I was asked to organize the assembly of all the students. As I recollect, two events got imprinted in my young mind. First, one flag was lowered and the great Indian tri-color flag was rising. My teacher Reverend Soloman said, “Oh my students, look at the flag which has been flying for over 200 years, it indicates we were ruled. Now, our Indian flag is rising.” It was exactly at 12 o’clock midnight. All of our teachers enjoyed. We students rejoiced. Then Pandit Nehru, the first Prime Minister of India, spoke on the radio. All our teachers and the students clapped. Every student got a sweet packet, we started eating. Of course, the freedom was in front of us. My school was awake, everywhere lights, lights, lights, like Deepawali. The spirit of freedom entered in the hearts of every Indian, and manifested itself in smiles on every face.”
+  tag=
+
+10
+  ques= Mr. President, Dr. Rajendra Prasad was sworn in as the first President of India on January 26, 1950. Did you ever think then or later that you could someday become the President of India? Please share with our viewers your rise to the highest office in the nation; how did this all come about?
+  ans=“Well, that dream was not there, not at all. My younger age dream was to fly, as inspired by my primary school teacher, Subramaniam Iyer. One day, he taught us how a bird flies. The way he taught us how a bird flies led me to want something to do with flight. Of course, he injected in me an ambition that I must fly in life. After my aeronautical degree, it was a disappointment that I was not selected by the Air Force. But then, I was fortunate that the space program got started by the visionary Dr. Vikram Sarabai then, and I was entrusted with the project for the design and development of the first satellite launch vehicle for the country. That led me to my initiation into integrated missile development program. Both these programs gave me an insight on putting technology and people in the organization together for realization of complex missions. I was also getting exposed to some societal needs, particularly through integration of medical and engineering disciplines. Then came the exciting experience of evolving India mission 2020 with the help of a great team. That led me to my lifetime passion of interacting with the youth. I took up a teaching assignment at Anna University on Technology for Societal Transformations. At that time, the nation offered me the opportunity of serving as the President of India. I saw in this a call of duty, for me to spread the message of vision 2020 for an economically developed nation.”
+  tag=
+
+11
+  ques=Sir, I was born in New York but my parents originally came from India. So each year, I celebrate two Independence Days; one on the Fourth of July as an American and the other on August 15 as an Indian. What advice would you like to give to NRIs in America, in relation to their country of birth and their country of adoption?
+  ans= Riti, I am glad that you celebrate Independence Day of both U.S.A. and India. My greetings to you and your family! My advice to all NRIs, whichever country they are working and living, they should all contribute their best for the welfare of that country where they are living. Regarding their nation of origin, NRIs can share their knowledge and experience of success in life. The message on this greatest day of the year for the biggest democracy of the world is wherever you are you can contribute to peace and prosperity of humanity as a whole which will lead to global happiness. I used to hear a hymn in my country, that I would like to convey to the youth in India, America and other parts of the world. Where there is righteousness in the heart, there is beauty in the character, Where there is beauty in the character, there is harmony in the home, Where there is harmony in the home, there is order in the nation, Where there is order in the nation, there is peace in the world.
+  tag=
+
+12
+  ques=Sir, We are happy about the new Brahamos you have invented. But why don?t you sir invent things which promotes peace? 
+  ans=Sir, We are happy about the new Brahamos you have invented. But why don?t you sir invent things which promotes peace? 
+  tag=
+
+13
+  ques= What are the job opportunities in Public and Private sector for us (Speech and Hearing Impaired Students)? 
+  ans= 3 % reservation is allotted for the differently abled persons including speech and hearing impaired students. Certainly now the number of private industries are encouraging and appointing the speech and hearing impaired students such as Sakthi masala in Tamilnadu. Many more industries will identify the right jobs and every one of the students who are having speech and hearing impaired students. 
+  tag=
+
+14
+  ques= Though India is continuing with corruption, hike in price and economic crisis, can it become a developed country within 2020 as you said? What are the steps to be taken by the youth towards that development? 
+  ans= As a youth of the nation, first and foremost your action is to study well. That is your first responsibility. Regarding corruption and other issues, the reform has to start from our home. If our home is corruption free, our village and city will be corruption free, then our state will be corruption free and the nation will be corruption free. Certainly our leaders should have the wisdom to bring down the price rise and manage the economic crisis.
+  tag=
+
+15
+  ques= What is the biggest challenge facing India today and what should we do to contribute positively towards this challenge?   
+  ans= The youth needs to develop an attitude : I can do it! We can do it !! India will do it!!!
+  tag= 
+
+16
+  ques= what is the secret of success in your life? 
+  ans= Have an aim in life, acquire knowledge through all possible sources, work hard and never accept defeat by the problem, always defeat the problem and succeed. 
+  tag=
+
+17
+  ques=  Commerce or science Stream? If we want to be a scientist in Isro, what are the procedures for it?
+  ans= ISRO has an institute called Indian Institute Space Sciences and Technology (IIST) at Thiruvananthapuram. The admission into this institute is by a competitive examination for students who are appearing or completed class 12 examination on lines of JEE. The students graduating from IIST are offered scientific jobs at ISRO. 
+  tag=
+
+18
+  ques=How can we make developments in the field or science and at the same time make the process eco-friendly? 
+  ans=We have to be sensitive in every development about the damage it can cause to the environment and find scientific methods to mitigate these causes. This way we can find eco-friendly scientific applications. 
+  tag=
+
+19
+  ques= The recent tsunami and earthquake in Japan has cost major nuclear disaster. Will it have any impact on future nuclear development? 
+  ans=There will be impact. Thorium based nuclear reactors may replace the uranium based reactors. Also, the scientific community may look for other alternative renewable resources like solar, wind, and hydro. 
+  tag=
+
+20
+  ques=rom your several achievements, which one do you feel most happy and proud of? What makes the student perfect?
+  ans=The greatest satisfaction I had was, when we developed a FRO and fitted to polio affected children and they were happily dancing.
+  tag=
+
+21
+  ques=How was your experience in the field of space technology?    
+  ans=It was very good. I could participate in developing the first space launch vehicle which has led to many launches and fulfillment of Prof. Vikram Sarabhai vision of the country?s ability to develop any type of satellite and launch it from Indian soil in different orbits. 
+  tag=
+
+22
+  ques=Sir, you always say that we must dream big and follow our dreams. What makes one follow one’s own dreams? Parents, access or commitment?
+  ans= Dreams are finally nothing but goals or mission in life. In my case I had great teachers in various phases of life. And also my parents, my father and mother were very useful teachers to me throughout their lives. I was the only fellow in the family studying, and their commitment to me was absolute. The spiritual environment at home shaped me.You should convert your goals and mission to success in spite of problems. That is my lifelong commitment.
+
+23
+  ques=Sir, what is more important, the ability to handle failure or the ability to respond to failures?
+  ans=Of course, I have myself gone through many successes and a few failures. And I have also met a number of successful people throughout the world wherever I have gone, and when I discuss with them, they reveal how many problems they have encountered, what kind of failures they have had.
+
+24
+  ques=So, I have come to the conclusion that great success has some element of failure also. I still remember Prof. Satish Dhawan, he gave me a project in 1973, were you born then?
+  ans=  I was born in 1973.(A burst of laughter) He gave me the SLV project in 1973, and named me the project director. I found that there were a lot of senior people above me, you know, experienced people, they should support me and there were a number of youngsters with high technical knowledge. So, I had to bring them all together to succeed. At that time I was in my thirties, 39 or 40. So, I was frightened, whether I can do it. It’s a great job, how can I do it for the first time, how to build a rocket, to make a satellite, and it’s a big vision and how can I do it?
+
+25
+  ques= And the nation’s expectations were on you?
+  ans=A lot of expectation. So then Prof.Satish Dhawan, the chairman saw my hesitation. He called me and gave me some advice, famous advice. He said, “Kalam, if you don’t do any work, you don’t experience any problem.” Even in media, if you don’t report there is no problem. If you report, problem starts. (He laughs heartily at this). So, Prof. Dhawan said major programmes are always coupled with major problems. But don’t allow problems to become your captain, you should become the captain of the problem. Defeat the problem and succeed. This advice he gave me in 1973, even now it’s true. It is true for politicians, educationists, media people, it’s true in every area. So, the message I’m giving is we should take control of the problems, okay?
+
+26
+  ques=Sir, why do we find 2/3 of India’s engineering graduates unemployable? What do you think is the underlying problem?
+  ans=During my recent visit to CanadaI visited a university called Waterloo. For an engineering degree students are taught in the classroom for one year, the next year they go to the industry. So two out of four years they spend in the industry. And in the industry they learn to work within the system, it may be the software system or the hardware system, machine system, electronic system, or chemical system. But they learn to apply what they studied at the university. So when they graduate there is good demand for them. They can hit the ground running.
+
+27
+  ques=So, it is lack of integration between real-life work and academia that is the problem?
+  ans=I want to share with you my own experience. In 1957 I studied aeronautical engineering in Madras Institute of Technology. It was a difficult discipline to get into and we were only nine students. Now, Prof. Srinivasan gave us a six months project in our final year. The project was to design low-level (low altitude, he clarifies) attack fighter aircraft. So, having studied, aerodynamics, structures, propulsion, control, etc., here we have to put them together into a workable aircraft system design. I was the project leader for that. I was the ninth, so eight other people are there, someone would give propulsion, some other aerodynamics etc. So, after four and-a-half-months of study, I was there in my laboratory. The teacher, my guide comes. At that time we did not have computers, I was using the design board for drawing the design of the aircraft and my friends were all around me. So, he comes and sees and says, “I’m completely disappointed with your work; I am going to stop your scholarship if you don’t complete the design in two weeks time.” (Dr Kalam laughs.) It was a very costly education, if my scholarship stopped, I had to return home. I talked all kinds of things, gave him excuses, told him we had worked so hard, all of us are suffering etc. But to no avail. And so, finally all of us joined together day and night, Saturdays, Sundays; we didn’t even go to our hostels. And we designed the fighter aircraft.On a Sunday evening Prof. Srinivasan came, exactly one day before the deadline. He saw the design, he was very happy. Then, he gave us Madras coffee in his house. (Dr. Kalam laughs again as he remembers). It taught me the value of planning, of teamwork, of time. But what we learned most out of that is that in the education system, while we study mechanical engineering, electrical engineering, chemical engineering etc. we should also have a clear understanding of how it all fits into a larger system, a productive system. So students must also be taught system design, system integration, system management, since that is what the industry wants. Our educational system should promote that.
+
+28
+  ques= Why, sir, is entrepreneurship and skill development very important to you?
+  ans=A. We add seven million people every year at 10+2 level and three million graduates every year. So, we inject ten million people into the society every year as employment seekers. This is because entrepreneurship is not taught, either in the secondary school education or in higher education or university education. Entrepreneurship is not part of the curriculum, neither is acquisition of usable skills. That’s why I’m saying if 30 per cent people have to procure their skills, that training should be started during the period of education itself.
+
+29
+  ques=Sir, what would be three qualities which you think one requires for success in life?
+  ans=I will say four qualities, okay. Number one, a clear aim in life, without it you will be going in all directions. Second, you should acquire the knowledge. You acquire knowledge in multiple ways. Great books should be your friend, great teachers should be a friend, and even home environment and parents can help you gain knowledge. The third aspect is hard work with devotion. I am saying since your work is towards your mission, it should be permeated with the devotion to that mission you have in mind. And the fourth one is perseverance. Persevere continuously. You do these four things and you can become anything. All these four things you have, work for it, you will achieve anything.
+
+30
+  ques=Sir, would you then say, that it finally boils down to focusing on one mission in life?
+  ans=No, it is finally that the goal should be in front of you. That is my experience. We are always tempted to do many things simultaneously. But if you start doing one thing, have one goal and put all your efforts into that, then definitely you will succeed. Of course, you have to win! A problem always appears here and there but you have to face the problem and defeat the problem.
+
+31
+  ques=Sir, how do we, at Careers360 add better value for our readers?
+  ans=You should not become just like any other magazine. You see 700 million people are living in the rural area, you are reporting about 300 million people. So you should report the success story of a fisherman, an agrofood processor, a farmer, a craftsman. The message is become the magazine of a billion people population.
+
+32
+  ques=Sir, one last word to our readers.
+  ans=They must think in a big way. I remember 2000 years back, there is a famous saying in Thirukural by Saint Poet Thiruvalluvar — Vellathanaythu Malar Neetam Mandartham Ullathanaytu Uyarvu. It means that, just like the height of the water in a pond determines the height to which a lily would grow, it is the heights of thoughts that determines the heights to which you could aspire for. So as human beings they should have great thoughts, great aims, and when thoughts become transformed into actions performed with perseverance and devotion, success has to follow. Thank you very much sir.
+
+33
+  ques=Dr. Kalam, you say the nation comes before the individual. What is your take on American business owners who have outsourced the jobs of their countrymen?
+  ans=Every nation has to follow a certain policy: Commercial, trade, various other types of policies. The phenomenon of globalization is going on. If you consider the law of development, there are two types of nations. One category holds the developed nations, numbering less than 10, and the second category holds the hundreds of developing nations. Developed nations produce and market products in their own country and throughout the world. Only then can they survive as developed nations. Developing nations want to become developed nations. So, they have to produce products and competitively market them globally. So what is the commonality in the picture? Competitiveness! That is a key concept. Cost, quality, marketing — all make up factors of competitiveness. So, all nations have to work competitively, all nations have to depend on each other, work together. There’s nothing wrong in it.
+
+34
+  ques= How do you envision the epic communal divide between Muslims and Hindus bridged in India?  
+  ans=Let me tell you a story. The Europeans fought with each other for hundreds of years. They even created two world wars. But today, we see that these same 23 nations have created the European Union. There are rich, not so rich, and poor nations in the EU, and all of them are working towards making Europeans live prosperous, happy lives. So, in India also such changes will happen, in fact throughout the whole world — the earlier the better. To give another example, U.S.A. and U.S.S.R., during the Cold War, generated 10,000 nuclear warheads. Today they are friends. They are saying they are working for world peace, they say they will bring down the number of nuclear warheads. So, historically, this cycle has to come to India too. Good things will happen.
+
+35
+  ques=You’ve been called the “Missile Man of India” and the “People’s President.” Is there an incongruity between your desire to empower the world with peace and making India a nuclear power?
+  ans=I am innocent to the whole affair! I did not call myself these names! (laughs). When a nation is surrounded by weaponized nations, she has to equip herself. That’s what India has done. To make the nation peaceful and prosperous, we need minimum security. That’s what we have done.
+
+36
+  ques=What was your immediate reaction when “Agni” and “Prithvi” missiles were successful?
+  ans=I was right there and witnessed the whole thing. Courage is key. My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people.
+
+37
+  ques=And who taught you this message?
+  ans=Myself. I had to learn this myself. Literature also influenced me deeply. In India, we have a famous book called, Thirukkul, written 2,200 years back. I’ll quote a couplet: “If your thoughts are high, definitely you’re going to work for your aim, definitely you will succeed. But conversely, if you don’t have an aim, don’t have high thoughts, how can you aim at success?” My second favorite book is Light From Many Lamps, by (Lillian Eichler) Watson. And the third book that I love is Empire of the Mind. These three books have made my life.
+
+38
+  ques=How did you feel when you realized that you didn’t have to support your family with your newspaper route anymore?
+  ans= See, I firmly believe that the nation has to be bigger than the individual and the individual has to work for the nation. If you’re working for yourself, you’ll not be transparent. But once you put the nation above you, you become transparent.
+
+39
+  ques=You began your career with ISRO. You were the Project Director of the first successful SLV-3 flight from Sriharikota, in July 1980. Then you joined the DRDO. Recently you took part in the activities of the Department of Atomic Energy (DAE) related to the five nuclear explosions at Pokhran in May. What are your experiences in each of these departments?
+  ans=When I worked at the Vikram Sarabhai Space Centre in Thiruvananthapuram, Rajan worked at the ISRO headquarters (Bangalore), and he also worked at the VSSC. We were in the Physical Research Laboratory also... I started my career in the VSSC and worked there for nearly 20 years - from 1962 to 1982. One of the major projects I was assigned then was to design, develop and build a satellite launch vehicle called SLV-3 to put the Rohini satellite into low earth orbit. This was India's first satellite. I had a fantastic team. It was called the SLV-3 team, and many technology groups at the VSSC, at the Sriharikota (SHAR) centre and the ISRO Satellite Centre (Bangalore) were all partners in this great mission. What we learnt when I put the satellite successfully into orbit in July 1980 was that in any task we do, the mission is greater than the individuals and organisations. That brought together many partners from research and development organisations, industries and various laboratories. This was one of the major experiences. This continued with me wherever I went. In 1982, when I joined the DRDO, one of the major programmes we evolved was the Integrated Guided Missile Development Programme. This programme, comprising many missiles, came out of the intensive partnership between the DRDO laboratories - the prime laboratory at that time was the DRDO (Defence Research and Development Organisation), and its Research Centre at Imarat, Hyderabad - and the defence industries, the armed forces and public and private sector industries. So, one is (the fact that the) mission (is) greater (than the individuals). Another is partnership. In both ISRO and the DRDO, when I was working there, thousands of engineers, scientists and staff (members) participated. Now the recent effort - a major mission that has been accomplished with the partnership of the Department of Atomic Energy (DAE), the DRDO and the Army - was the completion of five underground nuclear tests. I would attribute the success of this mission, as my friend Dr. R. Chidambaram, Chairman, Atomic Energy Commission, put it, to the "synergy" between the DAE and the DRDO. This has brought about a very important technological breakthrough. So the net result is the (joint) experience of three major scientific departments - ISRO, the DRDO and the DAE. India has the best of minds, creative minds. Any mission dreamt of can be accomplished.
+
+40
+  ques=You, along with Rajan, have written the book India 2020, A Vision for the New Millennium. What motivated you to write that book?
+  ans=India had a great vision, the seeds of which were sown in 1857. It was that India needed freedom. That was a vision for the nation. It took 90 years of hard work by the best of our leaders to achieve that freedom. Now we need a second vision for the nation.And also participate in the adventure of transforming a developing India into a developed India
+
+41
+  ques=In your book, you explain how Tipu Sultan used rockets in the two battles of Seringapattam and how you wanted to see them displayed at the Rotunda Museum at Woolwich, near London. You have pointed out that it was the first ever military use of rockets anywhere in the world, and that the British studied these rockets and improved upon them for use in their battles in Europe. How did we fail to build upon the foundation of rocketry laid by Tipu? Robert Goddard in the United States, Konstantin Tsiolkovsky in Russia and William Congreve in England laid the foundations for rocketry in those countries. We missed the bus, in the case of Industrial Revolution too.
+  ans= In Tipu's time, the world's first war rocket was built and used. In the first battle, the British were defeated. In the second, Tipu was defeated. So we had the 'rocket sense'. We had the capability to make a rocket towards the end of the 18th century. In the 1960s, the rocket technology received a big thrust through Professor Vikram Sarabhai at the Space Department and through Dr. Nag Chaudhri at the Defence (Department). These two persons propelled the rocket technology in India, one for space and another for defence.
+
+42
+  ques=On the post-Pokhran situation, you said: "When nuclear technology and defence technology meet, they get transformed into nuclear weapons technology. This is what the nation witnessed on May 11 and 13..."
+  ans=All these things, the President of India put beautifully on August 15. After what he said about the national statement... the Prime Minister also said that India is a nuclear weapon state. For security reasons, it has built all these things, as proclaimed by our leaders.
+
+43
+  ques=You said, "The process of nuclear weaponisation is complete." How can the process be completed with just five tests?
+  ans= It is not just five tests. You can say the five tests marked the culmination of... experiments. Before that, there is simulation, design, verification, and there are many laboratory experiments. There are so many (steps). So it is a culmination. It gives, what I may call, a database for our future development and verifications.
+
+44
+  ques=India has declared itself a nuclear weapon state. You are the father of the Integrated Guided Missile Development Programme. Unless it converts technology into missiles, aircraft delivery systems and warheads, can it declare itself a nuclear weapon state?
+  ans= Missiles can carry any type of weapons. It can carry a conventional weapon, a nuclear weapon. It is only a set of weight, size and performance requirements that will decide... As far as a missile is concerned, it is designed to carry any type of warheads. So when India is called a nuclear weapon state, it means it has a carrier. An aircraft can be a carrier or a missile can be a carrier.
+
+45
+  ques=After India conducted the five tests, you said, "The nuclear threat has been vacated." Could you elaborate?
+  ans=That is the strength. What it means is that once you build the capability, no adventurism is possible from any quarter.
+
+46
+  ques=When P.V. Narasimha Rao was Prime Minister, India co-sponsored the resolution on the CTBT. In fact, Jawaharlal Nehru was one of the first to propound the CTBT. Later, India changed its mind...
+  ans=We have always been consistent. From Nehru's time, we advocated total disarmament. Total. We said we don't want five countries to have nuclear weapons when other countries don't have them. There should not be any discrimination. This policy has continued from (the time of) Nehru. Our Prime Minister also has put forth the same policy.
+
+47
+  ques=But after the five nuclear tests, Prime Minister A.B. Vajpayee has made contradictory statements on signing the CTBT. He indicated in Parliament recently that India might sign the CTBT. Brajesh Mishra, Principal Secretary to the Prime Minister, said on May 11: "India will be prepared to consider being an adherent of some of the undertakings in the CTBT. But this cannot be obviously done in a vacuum. It...would depend on a number of reciprocal activities."
+  ans=There is a negotiation already going on between India and the U.S. on the future course of action. Any action taken will be to the advantage of our country.
+
+48
+  ques=Do you think India is swinging from nuclear adventurism to surrender on the CTBT?
+  ans=No. There is nothing like that. As long as we declare ourselves a nuclear weapon state, that stands. What is important is that India is against a few countries dominating others as exclusive nuclear weapon states. That is the real discrimination. So India wants total disarmament. From Nehru's time onwards, we want disarmament. So that stands.
+
+49
+  ques=Will India join the Fissile Material Cut-Off Treaty (FMCT)? The core of the FMCT is...
+  ans=There is a discussion going on.
+
+50
+  ques=The core of the FMCT...
+  ans=Everything will be done to the advantage of our country.
+
+51
+  ques=There is a fear that once India accedes to the FMCT, its nuclear facilities will come under safeguards because the core of the FMCT is verification.
+  ans=Whether the FMCT or the CTBT, any decision taken by the Government will be to the advantage of the people, to the advantage of the nation.
+
+52
+  ques=How have the five nuclear tests removed India's objections to signing the CTBT or the FMCT?
+  ans=We have built our capability. If you have built your capability, you don't need to test.
+
+53
+  ques=Will India's nuclear deterrence guarantee its security? Will it be a deterrent aimed at Pakistan or China? Pakistan is no match for India and China is much stronger than India.
+  ans=That question is already answered. See, it is a deterrent. I would only say that the minimum deterrent required is that which deters our adversaries the maximum.
+
+54
+  ques=Could you say something about Agni-II? What is the present stage of its development? How much progress has been made in propelling it with liquid fuel
+  ans=What technology you have, whether solid or liquid propellant, is not the issue. The Minister has said that the Government has approved the next phase of Agni.
+
+55
+  ques=What will be its range?
+  ans= It will be beyond 2,000 km.
+
+56
+  ques=You said in Bangalore on August 19 that the LCA would be inducted into the Indian Air Force by A.D. 2003 despite the sanctions imposed by the U.S. What is the status of development of the indigenous Cauvery engine for it?
+  ans=Five Cauvery engines are on the test-bed and they are being run round-the-clock. They have logged hundreds of hours. We will continue (running the engine). One engine is under the high altitude test. The realising of the engine is very close. It will come out at the right time for the LCA.
+
+57
+  ques=What happened to the development of the indigenous engine for the Main Battle Tank (MBT) Arjun at the Combat Vehicles Research and Development Establishment (CVRDE)? The work has been going on for a long time. Meanwhile, India imported MTU (Motor Turbine and Union) engines for the tank from Germany.
+  ans=The MBT has now been accepted for production.
+
+58
+  ques=But these MBTs have imported engines. At what stage is the development of the indigenous engine?
+  ans=We are developing our own engine. We have already developed a 1,000 horsepower engine. It is going for summer trials.
+
+59
+  ques=In your book, you have said that India's "...young people are prepared to rough it out. That is where our hope lies for the realisation of the Second Vision." In the 1960s and 1970s, students and youth took part in political movements with great enthusiasm - in the Nav Nirman movement led by Jayaprakash Narayan, for instance. But in the 1980s and 1990s students and youth did not take part in any such major movement and they do not seem to be interested in social and political issues and developments. Is this because the students have become grossly career-oriented?
+  ans=My view is that if you have a vision that India should become a developed country, it penetrates all minds. This urge to become a developed India is a vision that is greater than any group of people or any group of States. Everybody wants a vision driven by a mission and a goal. That is why we call it a second vision for the nation - of transforming India into a developed India. Once the vision comes, everybody feels that we have to be a developed India, a prosperous India. Then the tendency (on the part of the youth) of not participating in movements - it is because there is no programme that is greater than individuals or groups - will vanish. So, the vision is one of the biggest elements that will trigger young minds.
+
+60
+  ques=What do you see as economic security?
+  ans=Developed India needs three important tools or three important systems. One is a strong economy. It should be one of, say, four or five (top) nations in economic strength. You can call it economic security linked to food security. The second one is a self-reliant national security system. And the third, India should have a standing in the world. For a developing India, all these three will not be there. Economically, you are not a strong nation. For national security, you have to depend on somebody else. The third is, you have no standing in the world as an important power. So our dream should be that we have to work towards becoming a developed India in order to achieve these. The book talks about it - how to reach it. Finally, we have said in the book, "We therefore have a dream. Our dream is that both the Houses of our Parliament would adopt a resolution for the second vision of a great nation: 'India will transform into a developed nation before the year 2020'. A billion people are our resource for this national transformation."
+
+61
+  ques=WHAT’S YOUR VISION OF INDIA IN THE NEXT MILLENIUM?
+  ans=Dr. Kalam’s First Vision: Freedom: Dr . Kalam’s First Vision: Freedom In 3000 years of our history, people from all over the world have come and invaded us, captured our lands and conquered our minds . Yet , we have not conquered anyone. Because, we respect the freedom of others, and that is the reason for his first vision of Freedom . India got its first vision of this in the Indian Rebellion in the year 1857, when we started the war of Independence. It is this freedom that we must protect and nurture and build on. His Second Vision: Development : His Second Vision: Development We have been a developing nation for fifty years. In terms of GDP, we are among the top five nations of the world. Our poverty levels are falling. Our achievements are being globally recognized today. Yet we lack the self-confidence to see ourselves as a developed nation. His Third Vision: India must stand up to the World : His Third Vision: India must stand up to the World India must stand up to the world. Unless India stands up to the world, no one will respect us . Only strength respects strength. We must be strong not only as a military power but also as an economic power. Both must go hand-in-hand.
+
+62
+  ques=WHAT ABOUT THE REALITY? WHAT DO YOU SEE AS THE MOST SIGNIFICANT ACHIEVEMENTS OF YOUR RATHER DISTINGUISHED CAREER CULMINATING IN A BHARAT RATNA IN YOUR LIFETIME?
+  ans=My good fortune was to have worked with three great minds. Dr. Vikram Sarabhai, of the Dept. of Space, Professor Satish Dhawan , who succeeded him and Dr.Brahm Prakash , father of nuclear material. I was lucky to have worked with all three of them closely and consider this the great opportunity of my life. FOUR MILESTONES OF MY CAREER: FOUR MILESTONES OF MY CAREER ONE: ONE Twenty years I spent in ISRO. I was given the opportunity to be the project director for India’s first satellite launch vehicle, SLV3 . The one that launched Rohini . These years played a very important role in my life of a scientist. SECOND After my ISRO years, I joined ‘Defence Research & Development Organisation’ (DRDO) and got a chance to be the part of India’s guided missile program.  It was my second bliss when Agni met its mission requirements in 1994. THIRD: THIRD The Department of Atomic Energy and DRDO had this tremendous partnership in the recent nuclear tests, on May 11 and 13. This was the third bliss. The joy of participating with my team in these nuclear tests and proving to the world that India can make it, that we are no longer a developing nation but one of them .  It made me feel very proud as an Indian. FOURTH: FOURTH The fact that we have now developed for Agni a re-entry structure, for which we have developed this new material . A very light material called carbon-carbon. One day an orthopedic surgeon from Nizam Institute of Medical Sciences visited my laboratory. He lifted the material and found it so light that he took me to his hospital and showed me his patients. There were these little girls and boys with heavy metallic calipers weighing over three kilograms each, dragging their feet around. He said to me: Please remove the pain of my patients. In three weeks, we made these floor reaction orthosis 300-gram calipers and took them to the orthopedic center. The children didn’t believe their eyes. From dragging around a three kg load on their legs, they could now move around! Their parents had tears in their eyes. 
+
+63
+  ques=APART FROM SCIENCE AND TECHNOLOGY WHAT ELSE INTERESTS YOU?
+  ans=MY INTERESTS: MY INTERESTS Poetry and music. I have a big library at at home. My favourite poets are Milton, Walt Whitman and Rabindranath Tagore. I write poetry too. My book of poem Yenudaya Prayana , has now been translated in English. It is called ‘MY JOURNEY’ FAVOURITE POETS IN TAMIL: FAVOURITE POETS IN TAMIL Bhartidasana Subramaniya Bharathiar I also enjoy C arnatic music and play the veena. FAVOURITE RAGA AND KIRTAN: FAVOURITE RAGA AND KIRTAN Shri Raga My favourite kirtan is one of one of Swami Thyagaraja . When he was called by a powerful Tanjore King to sing poem in his sabha . He sang “In this gathering whoever are great in front of god, I salute them.” He never said : I salute the king . That is the strength of conviction. That is courage.
+
+64
+  ques=Since our publication is called Knowledge@Wharton, could you tell us something about knowledge?
+  ans= I’ve written a four-line, poem-like thing called “Creativity.” It goes like this: “Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great.” I have made at least a million children repeat these lines. I am very happy that Wharton has created Knowledge@Wharton; it’s a beautiful idea. My greetings to all of you.
+
+65
+  ques=Perhaps we could begin by talking about your own past. You were born in Rameswaram in 1931. What are the biggest differences between India as it was then and India today?
+  ans=Since then I have orbited the sun 76 times. I have seen when I was a young boy the Second World War coming to an end, and the effect of war and injuries. I saw India attain her freedom in August 1947; I saw the economic ascent phase of India [beginning in] 1991. I have worked with visionaries like Prof. Vikram Sarabhai. I have seen the green revolution, the white revolution, and the telecom revolution; I have also seen the growth of information and communication technologies (ICT), as well as India’s successes in the space program and self-sufficiency in strategic weaponry. These are some of the things I have witnessed. Of course, we have a long way to go. Since we have to bring smiles to the faces of more than one billion people, we have many challenges ahead. 
+
+66
+  ques=After studying aeronautics at the Madras Institute of Technology, you were one of India’s top scientists at the Defense Research and Development Organisation (DRDO) and then at the Indian Space Research Organisation (ISRO). You helped launch several successful missiles, which led to your getting the nickname, “Missile Man.” What challenges were involved in getting this program going and leading it successfully?
+  ans=I worked for ISRO for about 20 years. My team and I worked to put India’s first satellite into space. Then our team took up the Integrated Guided Missile Development Program. These were youthful teams that worked with me, and they have gone on to take up much larger projects. These in turn have led to great value addition in areas such as technology, infrastructure and, above all, human resources. One of the important lessons I learned in the space and missile program was not just how to handle success but how to deal with failure. Wharton is in the management environment. I would like young people to understand how they should manage failure. In any project you take up, you will face problems. These problems should not become the captain of the project chief; the project chief should be the captain of the problems and defeat the problems.
+
+67
+  ques=You were actively involved in India’s nuclear weapons tests in 1998. Could you tell us about that experience and the lessons you learned?
+  ans=The main lesson I learned was how multiple technical teams and departments of the government of India could work together for a great mission as an industrial partnership. It was a great experience.
+
+68
+  ques=You are known to be deeply spiritual. Did you ever feel conflicted, or guilty, about developing missiles and nuclear weapons? Why, or why not?
+  ans= I realize that for my country’s development, peace is essential. Peace comes from strength — because strength respects strength. That is how our weaponized missiles were born. You need strength to keep the nation peaceful, so that you can focus on the necessary developmental missions. That is how I see it.
+
+69
+  ques=How did you come to become India’s President in July 2002? What leadership qualities does one need to lead a country as large, complex and chaotic as India?
+  ans=Well, I won’t call India chaotic, because order comes from disorder. That is what is happening now. I was elected President of India — from 2002 to 2007 — through a well-structured election process. Any leadership — whether it is political leadership or leadership in technology — requires that the leader have six traits. What are these traits? First, the leader must have vision. Without vision, you cannot be a leader. Second, the leader must be able to travel into an unexplored path. Normally the tendency is for people to travel along well-laid out ways. Third, the leader must know how to manage success, and even more importantly, failure.
+
+70
+  ques= Could you give an example, from your own experience, of how leaders should manage failure?
+  ans=Let me tell you about my experience. In 1973 I became the project director of India’s satellite launch vehicle program, commonly called the SLV-3. Our goal was to put India’s “Rohini” satellite into orbit by 1980. I was given funds and human resources — but was told clearly that by 1980 we had to launch the satellite into space. Thousands of people worked together in scientific and technical teams towards that goal. By 1979 — I think the month was August — we thought we were ready. As the project director, I went to the control center for the launch. At four minutes before the satellite launch, the computer began to go through the checklist of items that needed to be checked. One minute later, the computer program put the launch on hold; the display showed that some control components were not in order. My experts — I had four or five of them with me — told me not to worry; they had done their calculations and there was enough reserve fuel. So I bypassed the computer, switched to manual mode, and launched the rocket. In the first stage, everything worked fine. In the second stage, a problem developed. Instead of the satellite going into orbit, the whole rocket system plunged into the Bay of Bengal. It was a big failure.  That day, the chairman of the Indian Space Research Organization, Prof. Satish Dhawan, had called a press conference. The launch was at 7:00 am, and the press conference — where journalists from around the world were present — was at 7:45 am at ISRO’s satellite launch range in Sriharikota [in Andhra Pradesh in southern India]. Prof. Dhawan, the leader of the organization, conducted the press conference himself. He took responsibility for the failure — he said that the team had worked very hard, but that it needed more technological support. He assured the media that in another year, the team would definitely succeed. Now, I was the project director, and it was my failure, but instead, he took responsibility for the failure as chairman of the organization. The next year, in July 1980, we tried again to launch the satellite — and this time we succeeded. The whole nation was jubilant. Again, there was a press conference. Prof. Dhawan called me aside and told me, “You conduct the press conference today.” I learned a very important lesson that day. When failure occurred, the leader of the organization owned that failure. When success came, he gave it to his team. The best management lesson I have learned did not come to me from reading a book; it came from that experience. Continuing further with the six traits, the fourth trait is that the leader should have the courage to make decisions. Fifth, the leader should have nobility in management. Every action of the leader should be transparent. And finally, the leader should work with integrity and succeed with integrity. All the traits apply especially to the President of a country. The President continuously must be in touch with the people. The Rashtrapati Bhavan [i.e., the presidential residence in New Delhi, India's equivalent of the White House] must become the people’s residence. When I was President I travelled to every state, cutting across hills, deserts, and seas. I was in touch with millions upon millions of people.
+
+71
+  ques=In your vision for India 2020, you envisaged that differences between the urban areas and the countryside would gradually disappear. Could you explain your concept of “PURA” and how that brings about this transformation?
+  ans=The concept of PURA — which stands for “Providing Urban amenities in Rural Areas” — is about giving a cluster of villages physical, electronic and knowledge connectivity. The idea is to empower the villagers, so that economic connectivity can emerge. We planned about 7,000 PURAs for the country — including hill PURAs, coastal PURAs and plains PURAs. I believe that connectivity is the key to bridging the rural-urban divide. The core-competence of the village will enable the production of competitive products for national and international markets. This will lead to rural enterprises which will create jobs in villages and lead to a vibrant economy in India’s hinterland. That is how prosperity will emerge in the rural environment.
+
+72
+  ques=How can India become energy independent by 2030?
+  ans=Today fossil fuels dominate the energy sector throughout the world. The World Energy Forum predicts that in five to eight decades, the fossil fuels will run out because these sources of energy are not renewable. Also, energy costs will go up. Oil is already at $110 per barrel, and if this continues, this situation will be very tough to manage. So I set a goal of energy independence for my country. It’s a three-dimensional approach. First, we should invest in solar power. Today solar power is not economical because the efficiency of solar cells is just 15% to 20%. So we should use CNT (carbon nano tubes) composites that can increase the efficiency of solar cells to 45% or 50%. Second, we should use nuclear energy, because India has abundant thorium based nuclear reactors. This is definitely a clean solution to energy needs. The third focus area should be bio-fuels, including ethanol as well as bio diesel made from jatropha [a plant that grows in wastelands] and algae. These three initiatives can free India from dependence on fossil fuels. It will also help maintain a clean environment.
+
+73
+  ques=In your vision for India’s future technology plays an important role. How will social grids — such as the knowledge grid, the health grid and e-governance grid — help make India a developed country?
+  ans= The idea is that the knowledge grid empowers the village citizens with skill and knowledge. The health grid brings the super-specialty healthcare that is available in the cities to the doorsteps of rural citizens. And the e-governance grid brings transparent governance to the citizens. All these grids lead to economic growth and social transformation.
+
+74
+  ques=During your years as India’s president, what was the biggest leadership challenge that you faced and how did you overcome it?
+  ans=I returned the Office of Profit Bill to the Parliament. The reason was that I felt there was no transparent system for determining whether a post was an office of profit. That was a major decision. I studied the bill and returned it to the parliament for reconsideration. It created its own dynamic, but I felt I did the right thing.
+
+75
+  ques=If you could rewind and replay your years as President, what might you do differently? Is there anything you wanted to accomplish that you were unable to do?
+  ans=Last year I came up with an idea: I felt I should power the Rashtrapati Bhavan completely with solar power. For that I worked on a proposal after completing four years of my Presidential term — and at the beginning of the fifth year. But then the environmental agencies raised a lot of questions. Before I could answer them, my term ended. I would have liked the Rashtrapati Bhavan to be the first home in India to be powered completely by solar energy.
+
+76
+  ques=One last question — you are a gifted poet. Could you please recite some lines of your favorite poem?
+  ans=My favorite poem is “The Vision.” I recited it in Parliament, and I will recite it for you.I climbed and climbed Where is the peak, my Lord? I ploughed and ploughed,Where is the knowledge treasure, my Lord? I sailed and sailed, Where is the island of peace, my Lord? Almighty, bless my nation With vision and sweat resulting into happiness.
+
+77
+  ques=Can you give us an example from your personal life, how should we accept defeat? How does a good leader defeat the defeat?
+  ans=I tell you about an experience of your life. In 1973, I was made the head of India's satellite launch program, also called SLV-3. Abdul Kalam Motivational Experience in Hindi www.officialkalam.com Our goal was to send our satellite 'Rohini' to space in any way until the 1980s. For which I was given a huge budget. And human resources were also provided. But I was also convinced that we have to fulfill this goal for a certain time. Thousands of people worked very hard Until 1979 - maybe August was the month - we thought we are now fully prepared. Being a project director on the launch day. I went to press the launch button in the control room. 4 minutes before launch, the computer started checking the list of things that were necessary. So that there is no shortage And then after some time the computer stopped the launch. He was telling that some things are not at the correct position as per the requirement. There were some experts as well as me. They assured me that everything is fine. And there are no mistakes. And then I bypass the instructions of the computer. And started the rocket. Everything was fine till the first stage. But the second stage got messed up. Instead of going into space rockets dropped into Bay of Bengal. It was a very big failure. On the same day, Chairman of Indian Space Research Organization (I.S.R.O.) Prof. Satish Dhawan called a press conference Prof. Dhawan, who was head of the institution. He took all responsibility for the mission's failure. And said that we needed some more technological measures. Media of the whole country was present there. He said that this work will be completed by next year. In the next year, July 1980, we tried again. And this time we have succeeded. The whole country was feeling proud. This press conference was also convened this time. Professor Dhawan called me in the side and said - "This time you do press conference." On that day I learned a very important thing. When a failure comes, a leader takes full responsibility. And when he succeeds, he shares it with his peers.
+
+78
+  ques=Dr Kalam, please can you tell me a little about your daily schedule? What's it like?
+  ans=The garden here has a 107-year old tree. Edwin Lutyens himself built and stayed in this house -- so he maybe somewhere here (laughs). His relatives had come to see this building. The 107-year-old tree is beautiful. Parrots and various other birds live at the top and at the bottom live peacocks. Every year there are baby peacocks. I have a very bioactive tree. I walk for 1 hour and 15 minutes every day. I spend time in my library. In a month, I spend 15 days travelling in India. For ten days in a year, I go abroad. I am an honorary professor at the University of Beijing. Every month, I meet a minimum of 100,000 young people. A million people in a year. So far I have met 18 million young people below the age of 25 in my country.
+
+79
+  ques=You get 300 e-mails everyday and spend two hours answering them. When did this process begin? When did you start actively engaging with young people?
+  ans=It all started when I wrote Wings of Fire, in which I conveyed my life, how I had lived it, how I got myself educated, how I started meeting youth...I was also teaching at Anna University at that time. After my work as scientific advisor, then projector director SLV 3, programme director AGNI -- after all that I went in 2001 to Anna University as a professor. I also get some handwritten letters. I consider them very important and I love to reply to them because they come from people from the grassroots who do not have access to the Internet. They come with unique questions and I have to give unique answers.
+
+80
+  ques=You mention what President Mandela told you about courage in your book -- who are some of the most inspiring world leaders you have met?
+  ans=Two world leaders exclusively come to my mind -- Mahatma Gandhi and his unique life. Similarly, Nelson Mandela. I went to the prison where Mandela lived. Where there is righteousness in the heart, there is beauty in the character. That's the example of Mahatma Gandhi throughout his life. In 2006, I travelled in the same kind of train with a steam engine from Durban to Pietermaritzburg. I could imagine the courage which Gandhiji showed in that cold winter. Ahimsa dharma came after the battle of Kalinga. It transformed King Ashoka. The second time ahimsa dharma was put into action was by Mahatma Gandhi at Pietermaritzburg. This book gives three messages. First: You can become a unique personality. Mahatma Gandhi and Nelson Mandela were unique. The other important thing about this book is about continuously acquiring knowledge. Thirdly, when the problem arises -- become the captain of the problem and defeat it.
+
+81
+  ques=You envisioned a growth plan for India called Vision 2020. How close are we to achieving that vision, in view of that deadline being six years away?
+  ans=Actually India 2020 is a vision for an economically developed India by 2020. Up to 2008 our GDP was 8 to 9 per cent. Then there was a problem across the Atlantic Ocean, and our GDP crashed to 6 to 7 per cent, then to 5.5 and then to 5 per cent. So in the 2008-2014 period, we had a slack in our development programme. Six years is a long period in a nation like India with 600 million youth, nowhere in the democratic world there exists this strength. We also have a natural way of life. Our agriculture is doing well. We have 250 to 260 million tons of food. Our IT, small scale and pharma industries are doing very well. Of course, we have to do lots in the development of the rural area. We have 600,000 villages where 700 million people live. We have to Provide Urban Amenities to Rural Areas (PURA). Seven thousand PURAS are needed to lift 600,000 villages. Even now it is not too late. Fortunately, I understand the present government is taking a priority for PURAS. If they push it along with small scale industry and smart waterways, then definitely 2020 -- plus or minus 2 years -- we can get there.
+
+82
+  ques=So you are confident by 2022, that we may be able to do it?
+  ans=We can do it, provided we have a national vision.
+
+83
+  ques=Do we have that national vision?
+  ans=From 1930 to 1947, we wanted Freedom. Our caste system vanished, our religions vanished, our differences vanished and we were fighting only for Independence. I call that the first mission that India had. The second vision: Economic development. If you work like that and declare that mission in Parliament and people and government work for it, irrespective of whichever party they belong to, it is possible. Because our resources are youth power and our natural resources.
+
+84
+  ques=In your book, you say 'The orientation must turn from the past to the future and focus on how India can become a developed nation. The real issue is that we are not to see ourselves as a nation and because of that there is no national vision.' Why do you think we have not been able to see ourselves as a nation?
+  ans=When we see the types of conflicts all around -- religious conflict, caste system, language problems -- any big nation will have such types of problems but the nation can be united for a big cause. Independence was a big cause that united us. That's why I am pushing this idea that the tool for India Vision 2020 is Providing Urban Amenities to Rural Areas. This way we can enhance village development. I have talked about all this in my book.
+
+85
+  ques=Independence was a common goal that united people, but some would say that India today is more divided than what it was then.
+  ans=Any nation goes through a number of problems in various decades, but India has the experience of bringing together people on a big cause. I am a believer. The second great movement that India needs is India 2020 Vision and this will make people come together. Plus if the economic programme grows, the poverty level will come down. Only a national vision can lift 300 million -- that's one third of the population -- below the poverty line out of poverty.
+
+86
+  ques=As one of the co-founders of India's space programme, you must be very proud of our Mars achievement. But at the same time when you say that we have to lift the large masses that remain poor, should not basic needs like healthcare, education, infrastructure precede loftier goals or at least go hand in hand?
+  ans=The space programme is targeted at uplifting the people. In geosynchronised orbit, more than 200 transponders are communicating to the Indian earth station. These transponders transmit communication, weather reports, 24 hour TV broadcast, the path of cyclones. All the recent major cyclones have been forecast by various satellites. 90 per cent of the space programme is for remote sensing and communication. You can remote sense what is the kind of wealth we have on earth like water, minerals etc -- so it is intended for the people. 90 per cent of the space programme is intended for the people. It is a people's programme. You asked about the Moon and Mars programme. We are spending less than 10 per cent of our space programme for finding and research on Moon and Mars so that we are partners in the research and no one can claim that it belongs to them. I don't want to see Moon and Mars as the property of some other nation. It should be international property. Ours is the lowest cost of going to the Moon or Mars and we found trace of water also on the moon. From Mars we don't know... some revolutionary ideas will come from our Mars programme.
+
+87
+  ques=What kind of a leader was Vikram Sarabhai, the founder of India's Space programme?
+  ans=When you read this book Forge Your Future, you will know how to become a unique person. It contains the experience of great thinkers and doers. Dr Vikram Sarabhai was a unique personality. He was a visionary. In 1970 he gave a report about what the nation's space programme should be for the next 20 years.
+
+88
+  ques=What according to you are India's greatest strengths?
+  ans=One is our farmer community. Whatever weather condition, whatever shortfall -- they will give us 200 million tones of food. Hats off to our farmers and our agriculture scientists! Second is youth power. No other democratic nation has 600 million youth. The ignited mind of the youth is the most powerful resource -- on the earth, above the earth, under the earth -- and we have that. Third, just like every family asks the government for an economically developed nation; every family has the responsibility to give a great citizen to the nation. We have 200 million families. Parents have the responsibility to make their children righteous -- where there is righteousness in the heart, there is beauty in the character. Only three people can give a good citizen before s/he turns 17. Father, mother, the spiritual environment and the primary school teacher.
+
+89
+  ques=You mention women like Marie Curie and Sister Antonia as role models. Who are some contemporary Indian women role models you admire?
+  ans=I have great respect for Dr V Shanta, for her contribution towards cancer diagnosis, treatment and teaching how to avoid cancer. I admire the mission of Ela Bhatt, founder of the Self-Employed Women's Association of India and, of course my favourite, whom I respect because I like Carnatic music -- M S Subbulakshmi. I love her music. When she was alive, I used to go to her music festival.
+
+90
+  ques=You say in the book that India needs to cast off its inferiority complex vis-a-vis China and work towards coming together to become a master civilisation because together they constitute 37% of the world's population. How can this be achieved in the background of the tension, hostility and border incursions?
+  ans=I remember in April 2007, I addressed the European Parliament. There were around 800 parliament members from 23 nations. I told them when I see you all -- for hundreds of years you were fighting each other and you generated two World Wars, so a billion Indian people congratulate you. Forgetting all your wars, forgetting the difference of society, you formed a European Union for prosperity and peace. This should be an example. I had composed a poem and recited it there. They gave a standing ovation. That is not the issue, the issue is that such nations that created World War I and II, when they came together, we -- China and India -- are a people of great civilisation, in spite of all the differences, there are some great philosophy that is common. Buddha and Confucius are common to us. I believe we have to have a great mission. I suggested when the Chinese president came here that we have a World Knowledge Platform. I teach at the University of Beijing, I told them the time has come that both nations should combine our core competence, our 60 billion dollar business, should become 250 billion dollars. The border issue we should sort out once for all. People of the European Union fought for hundreds of years, a people who generated two World Wars and Hitler and lost millions of people are a union today for economic growth and peace and it happened in front of our eyes. So for me the differences between nations can be solved by mutual discussions. Both sides should decide what we can give and what we cannot. It should be an intensive one month discussion with experts and we should sort it out. I hope the present governments in India and China will do that.
+
+91
+  ques=What are your thoughts on the present government?
+  ans=We are getting into politics, next question!
+
+92
+  ques=You believe social media affected the results in 30 to 40 per cent Lok Sabha constituencies. How will social media and the Internet affect future elections?
+  ans=Social media and the type of information flow should have credibility. It reaches fast. It connects people. It is one of the important mediums for putting forth ideas, thoughts and discussing problems. In India, we also need contact on the ground, but in the future I see that you can sit in your home with a biometric signature and security approved and you can vote. That way you will have 100 per cent voting. It is a long way off, but I visualise it. Selection of the candidates will also follow an electronic process -- to determine if s/he is a good or bad candidate, how many cases s/he has etc. This will happen, it is only a question of time. 
+
+93
+  ques= “mmmmm errr, Sir, shall I, no, shall we…..”
+  ans=“Lady, if I would have been married in my young days, I would surely have had a daughter of your age. Consider that and you may start with your interview dexterously.” His syllables were enough for me to gain my nerves.
+
+94
+  ques=“Sir, if this is so and as we all know you are so much fond of kids, opportunate me to begin with the ever wondered question, why didn’t you marry?
+  ans=“If I had married, I would never have achieved even half of what I have managed now. I was too busy in work and didn’t find time to get married. Henceforth, have kept nothing for me, neither wife nor children and earthly possessions”.
+
+95
+  ques= “Well, that would inspire many. What ideations do you carry in mind when you sleep at night, Sir?”
+  ans=“Transformation of India into a developed country and smiles on the faces of my people. That is my dream”
+
+96
+  ques=“You have made India believe it can be a superpower, how do you envisage the boiling blood of youth will accord to it?”
+  ans=“Youth needs to be channeled to a prolific task like INDIA VISION 2020. They have to be inspired with the feeling that “I can do it”, “we can do it” and “the nation can do it”.”
+
+97
+  ques=“Sir, you have been matured to this gray hair now, still how do you connect with students so well?
+  ans=“Same age, lady”. (Laughing)
+
+98
+  ques= “Sir, tell us about some incident in your life, which can be a morale booster to many students and youngsters?”
+  ans=“My life, which has been long and eventful, has seen great heights of success and failures. You will have to read my autobiography “Wings of fire” to know all what inspired me throughout.
+
+99
+  ques=“Sir, how come you are such a transparent person?”
+  ans=“My belief is that the nation has to be bigger than the individual and the individual has to work for the nation. Working for oneself is not transparency, but once you put the nation above you, you become one. ”.
+
+100
+  ques=“Sir what is the main terror that threatens the development of our country?
+  ans=“Ignorance!!”
+
+101
+  ques=“You are so perfect in your words, that every bit of it has ignited minds in various arenas. What would you like to convey them?”
+  ans=“Visualize whether the experience and education will embellish you to give to being human; probably that is your stage of performance. As a young citizen of India, armed with technology, knowledge and love for the nation, I realize that small aim is a crime.”
+
+102
+  ques=“Thank you so much Sir for your valuable time and words”.
+  ans=“If you really want to thank me, explore and contribute in making a developed India by 2020. It is not just a vision in minds, rather a mission that we can all take up and succeed”.
+
+103
+  ques=I hope we are not taking to much of your time
+  ans= I have a lot of time for you.
+
+104
+  ques=Sir, you are the inspiration of millions, who was your inspiration?
+  ans=My inspiration? Prof Vikram Sarabhai, heard about him? Well, my earliest inspiration was my science teacher, Sivasubramania Iyer. This man taught me in fifth class, I was 10 then. He was teaching how a bird flies. He went to the blackboard, drew the bird, its tail, nose, beak and wings and started talking about how it flies. You know which year [it was]? 1941. You were not even ideas then. After 45 minutes, he asked how many of us understood. Many students raised their hands. There were 30 of us who did not. He said, "Those who did not understand...come in the evening." Rameshwaram is a small island, with birds flying over the sea. He said, "Just watch, the wings are flapping. Now, the tail lifts, the wings flap and the direction changes." Tell me, what propels a bird? Cars and aircraft have engines, what does a bird have? Yes, life! Life is what actuates the brain. That's how he would explain. In a few minutes we all understood how a bird flies. But that's not important - what is important is, from that day something got into me, the bird's flight! I was just 10 but the teacher was so good he made me dream.... Flight? Science? I knew in a definite sense, my future had to have something to do with flight. That is how I developed interest in maths and physics. After school, I did aeronautical engineering at Madras Institute of Technology. Then on to rocket engineering at ISRO. That's where my career started. My science teacher put me on this orbit, but the full shape was given by Prof Sarabhai. He was a visionary. It was the '60s. Back then, we had no rocket, no missile, nothing. He gave us a vision statement—India should design and develop high-powered rockets, make communication satellites, remote-sensing satellites. That was his vision.
+
+105
+  ques=Was he the one, your teacher initially, who inspired you to write Ignited Minds?
+  ans=No, Ignited Minds I wrote after meeting young people like you.
+
+106
+  ques=For a man of simple ways, how has the ceremony and fan fare of being a president affected you? Even now? 
+  ans=Well, I'm at home with three things, ok?  First is the beautiful nature, you know ... with it, I'm always, I'm home. With flowers, with fragrance, with birds flying, the deer and what not - everything's here. I spend a lot of time. The second thing: I meet 50 to 100 children from various parts of the country. Third thing, I have my scientific agenda and tasks. I'm guiding a scientist for Ph.D. which I was doing when I was in Anna University as a Professor. He was my student, so currently I'm guiding him even now. Yes, he wouldn't leave me! There's also a fourth thing. I have come here with a mission—India should be transformed into a developed nation. And we are trying to talk to Parliament members, political leaders and legislatures, I'm trying to show we all can live in a developed nation. 
+
+107
+  ques= The prime minister said at the ASEAN meet that 54 per cent of India's population is now under 25. What do you feel about this, sir? Ours being a young nation... So, what do you feel about this, Sir, since we are getting into this groove of a young nation.
+  ans=Yes, its true, below 20 itself there are more than 200 million people. I believe it is our wealth. And just like in 1857, they were told to get freedom, and the young people were the first to jump into it. I believe that was the first vision of our nation. The second vision for the nation is transforming it into a developed nation. Out of a thousand, 260 people are below the poverty line. We have to lift them up. If the mission is injected into the minds of the young, then their minds will be ignited, they will transform India into a peaceful and prosperous country. 
+
+108
+  ques= Don't you think the youth has to be handled carefully? 540 million young people can be dangerous if they get into the wrong line..
+  ans=We all have passed the phase of youth. Basically, it all depends on family values, which are good in India. So there's a big hope. And regarding the possible problem with the young, it can be tackled by giving a big mission to them. First & foremost, you as a student should excel in academics. Second, over the weekend you can educate the 40% people who are illiterate, without disturbing your studies. Third is: environment is being damaged particularly in the urban areas. You can contribute by organising a "young movement" to conserve environment. You plant trees. Suppose you decide to plant 5 trees before you come out of IIT Kharagpur or Lady Shriram College, and each one of 500 million people plant two trees each, that would become 1 billion trees! The movement of the young always has the ability to excite. Apart from that, you must always have a dream - after economics, after B.A., what will I do? It should be clear: what I want to do in the next 10 years. Similarly, after Civil Engineering, will you become a designer, will you become a manager, a leader? Or as an economist would you become a good professor, or, would you like to contribute in the making of the economic design of our nation? Or, would you like to contribute nationally by participating in the planning of National Development?  Like that, you should have a dream.
+
+109
+  ques=You were talking of the youth educating people. At IIT, we have an organisation of students and a few professors, called Prabuddha Bharat, which tries to educate illiterate children outside the campus...
+  ans= I won't call these people illiterate, because may be they have great knowledge - what do you say?
+
+110
+  ques=Why is it that in our country, people who raise their voice against corruption meet a fateful end? Satyadev Dubey, to quote a recent example. 
+  ans= I have talked about it recently in the 200th session of Rajya Sabha, I've clearly indicated that the freedom to think, the freedom to perform, excel, all is engrained in these three stages of freedom - it is very vital. And also, our constitution permits any person to have the right to perform. There should not be any hurdle for them.  In my personal view, for corruption you can put any number of laws, we cannot do anything. Only three people can do something for corruption, i.e., father, mother, and elementary school teacher. When the child is growing, only they can plant the best of thoughts, the best of character. If it done before the age of 20 years, no one can change it. Once a teacher said, "If you give me a student, a child, for 7 years I will teach him and no god or devil can change him. So my feeling is, a corruption-free world has to start in the home. Because then you have a role model. That's why we have to see that we have very good role models - teachers. A good teacher leads a perfect noble life. 
+
+111
+  ques=This is what we can do in the future, but what about the youth who want to join now? Because of the prevailing corruption, no one wants to join government organisations...
+  ans=Let me recount two recent events, one in Delhi and another one in south Orissa. I was talking to 400 children in Orissa. After my presentation, I asked them what will they do after 10+2. Many said they want to become doctors, lawyers, engineers, fashion designers, and social workers. One girl got up and said "I want to become a political leader." Everybody laughed, you know. They said , "Why do you want to become a political leader?" I said there's nothing to laugh, at least she has a dream. Lets find out from her, why she wants to become a political leader. She said, "to remove corruption." That is, you should not be frightened and run away from the problem.  In Delhi recently, in Vigyan Bhavan, I was addressing 200 children. The same question came up - "what do you want to be"? I want to be an astronaut and all those things, they said. One boy said, "I want to join the IAS". He said he wanted to remove corruption. Please write: "In life, whether while studying or during your professional career, you may encounter problems. Problems should not become your master. (Pauses). You should become the master and defeat the problem".
+
+112
+  ques=  This is right, Sir, we need to take control of our lives, but in this S.K.Dubey case, what the government does and whether it sees to it that the guilty are punished .... If this does not happen, then may be...
+  ans=No, A probe has started by the CBI and the truth has to come out. 
+
+113
+  ques=If something is done, then it would definitely do a lot to boost the confidence of the people who want to fight corruption.
+  ans=No, what I want to do is, you must realise, we are a nation of a billion people, and a professor from USA asked me, "Mr. Kalam, what is the core competence of India?" Now tell me what would you say? Suppose someone would ask you this? My answer was, we are a nation of a billion people with multi-cultural, multi-religious, with many languages, what can be our core competence? We have got freedom since 1947. We are democratic since then. We have proved to the world - our core competency is managing and giving leadership to brilliant democratic people. Imagine how your college principal or director manages your college. Nobody else has got an experience of managing a billion people. We have many problems -  who cannot have problems? An aircraft is there. It takes off. Aircraft generates lift that's why it takes off. Drag also comes in. Suppose you make drag zero, then the aircraft will not fly. Similarly in our life challenges are always there. How we encounter the challenge, how we make it successful, that decides how powerful your life is. 
+
+114
+  ques= At the end of the day, do you see an end to this corruption?
+  ans= It may take some time for the movement to start. If 300 to 500 million young people said that we want a corruption free India ... Every one of you is a member of a family and you have a responsibility. You decide that whatever happens, I will not help corruption and will not become corrupt - and suppose you take that dream forward? You can change the world. Secondly, from all sectors, family-ties are very important for us in India. And this hope has to become the view of enlightened citizens. It would take about five decades. But if you want a faster action, the young movement will take you there.  Thirdly, the nation should have a vision i.e. "I want to live in a developed India". The higher the aim, the lesser will you be affected by the various deviations, various problems. You must articulate it.  Fourthly, laws should also take care of the people.
+
+115
+  ques= You are very optimistic?. 
+  ans=I wouldn't say optimistic. I would say realistic. There is a lot of difference. (Laughs) We need to look at the good aspects of life. Look at the shadows in life, not the sunshine, and have a big goal in life. There are three things: We need to look at everything, the shadows and the sunshine. Have a goal, be happy, appreciate your colleagues, and have good friends —books, apart from your three-dimensional friends! Books have always been my friends. My companions.
+
+116
+  ques=What are your five favourite books, that you recommend to the youth?
+  ans=1. 'Light from many Lands', by Lilliam Watson. 2. 'Thirukkural' - an ancient book, by Thiruvalluvar 3. Everyone should have a spiritual book, for me it's the Holy Koran. 4. 'Empires of the mind', by Dennis Waitely. 5. 'To begin where I am', by Czeslaw Miloz.
+
+117
+  ques=The youth in Northeast & J&K feel neglected due to lack of opportunities for employment. This resulted in violence in Assam recently. What message do you have for the youth there? How do you reassure them?
+  ans=I have been to all states in the Northeast and to Jammu & Kashmir. My feeling is that there are two things: One is, employment is to be generated. Just like both of you are saying you want to be an entrepreneur and you want to join business - this is beautiful. I have never seen this kind of 100% yield till today. (Laughs).When I go there, most of them want to join government jobs. That is because of the way our education system has grown us. I personally believe when you are studying in Lady Shri Ram college or in IIT Kharagpur, along with your course you should also receive a diploma type, a training for about 6 months of specialising in certain training leading to employment. So that along with your Civil Engineering degree, you have employment potential of giving the country what is immediately required. Maybe, agricultural implements or harvesting methods you could improve, or storing problems, silos. Our problem is that millions of tons of food is wasted because of storing problem.  In college they can give you additional computer experience or since you are an economics student, there are three sectors, agriculture, industry and services, so you should have your own choice in college to prepare you for a particular sector. You should have an entrepreneurship capability. The whole economy of the nation comes from the entrepreneurs, the small enterprises. It is not by joining government jobs. People should have the confidence to do what they want to do and the profession that they choose should have a demand in the nation.
+
+118
+  ques= The safety of women is an issue on everyone's mind... How would you make the women of India feel more secure? 
+  ans=There are three things. First, the law has to be amended to make it more stringent. Punishment should be severe and serve as a deterrent. Second, there should be quick judgement. Cases should not be allowed to pile up. Third, the diagnosis should be carried out properly by the police. [And, there is a fourth], you must have self-confidence.
+
+119
+  ques=Do you see movies?
+  ans=For me, you are all movies. Everyday I meet people like you and you are the movie for me.
+
+120
+  ques=You don't even watch cricket? 
+  ans=Cricket, I like; commentaries I hear.
+
+121
+  ques=Are you interested in Cricket ?
+  ans=In my school and college days I used to play. Now every time I want our people to do well. They did well in Australia.
+
+122
+  ques= There seems to be a beacon of hope in the present Indo-pak ties. Do we see peace coming our way? So how do you think we, as the youth, can help in this?
+  ans=We have offered, we had peaceful elections. Secondly, our PM has himself volunteered, offered a message, now only by discussion we have to solve the problem. When I was in Kashmir, children told me to allow them to cross the border, spread the message of peace. Looking at history, there is a common civilisational fibre among all Asians. We must look at the common things (that affect common people) like roads, buses, trains, aircraft. Here's a poem, hope you understand it:: "When guns are silent, Flowers blossom on the Earth/ Fragrance engulfs good souls who created beautiful silence" Whoever is responsible for making the guns silent gets the fragrance of the flowers. [Laughs]
+
+123
+  ques=Shall we begin by discussing your book? How many books have you written? 
+  ans=20. This is my 21st book.
+
+124
+  ques=21st! As an author too you have become an adult.
+  ans= (Laughs) Right, right. Actually, two of my books-Wings of Fire and Ignited Minds-have sold a million copies. The others are also doing well.
+
+125
+  ques=So have the publishers paid you your due royalties? 
+  ans=Yes, they pay very well.
+
+126
+  ques=Would it be correct to say that every book of yours is, in a sense, an autobiography? 
+  ans=My experiences are somehow integrated with people's experiences. For me there are two types of people: The young and the experienced. So, you will find that in every book, I have narrated certain experiences from my life. Thousands of people have written to tell me how Wings of Fire, Ignited Minds and Indomitable Spirit have touched their hearts and made a difference in their lives. That is the greatest satisfaction for me.
+
+127
+  ques=Which is the experience you would consider the most negative you have written about?
+  ans=For me, there is no such thing as a negative experience. But I have faced problems. Two instances come to mind. My first experience of professional failure occurred in 1979, when a satellite carrier failed to launch. But I never allowed failure to become my captain. I also learned from observing some remarkable people. Instead of blaming me, my boss at the time accepted the entire responsibility for the failure of the project in front of 120 mediapersons. When I succeeded the next year, he did not take the credit and instead asked me to address a press conference. That leadership quality-in failure, having the ability to take the blame for your team, and sharing in their success-is a lesson I learned very early in life. Years later, when I became president and was presented the Office of Profit Bill, I felt there was a problem. I asked Parliament to reconsider. Of course there was a lot of controversy regarding my stance... a Standing Committee had to be set up to study the matter, but I stuck to my beliefs.
+
+128
+  ques=You've observed life at the level of the common man, then later as a professional and in the last 10 years or so, you have watched India at the highest levels of political leadership. Do you find any leader today with the capacity to take the blame and share the success? 
+  ans=(Laughs) No... Look at this photo. I call it 'political grace'. It was taken in 2002 when my name was nominated by both Vajpayeeji and Soniaji... It shows all the political leaders together.
+
+129
+  ques=So what happened to your name this time? 
+  ans=Well, no one proposed it. Of course there were discussions in political parties but I haven't been nominated. Some people asked me to contest and I told them I would announce my decision at the right time, which I did.
+
+130
+  ques=But Mamata Banerjee and Mulayam Singh Yadav proposed your name. 
+  ans=(Laughs) It was proposed and withdrawn too!
+
+131
+  ques=So what did you think of Mulayam Singh's withdrawal? 
+  ans=I don't know. But I have written a letter to Mamata in which I have praised her leadership qualities.
+
+132
+  ques= Leadership qualities?
+  ans=Yes, because she was close to the golden throne. If she had worked through (with) the system she would have got whatever she wanted or at least half. But she took a stand and lost that opportunity. Of course she can recover her position. But she has the courage of a leader. Who must also have vision.
+
+133
+  ques=Do you think Mamata Banerjee has vision? 
+  ans= Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity.
+
+134
+  ques=And a leader should not change his mind in 24 hours! 
+  ans=(Laughs) I can only define a leader. I can't give you any examples!
+
+135
+  ques=The whole country has been watching this political drama (presidential election). 
+  ans= During the Mamata and Mulayam press conference, I was in Bihar as editor for a day for Prabhat Khabar. I told the newspaper 10 days earlier that if they want me to edit their paper, the first page must contain a thought that makes people smile and feature success stories of a farmer, fisherman, politician or anyone else. The paper showed me 20 success stories out of which I selected four and also contributed a poem I had written for the youth of Bihar.
+
+136
+  ques=If you had to write a poem about this presidential election, what would be the first line? 
+  ans=Courage, courage, courage.
+
+137
+  ques=But nobody showed any courage! Is that an appeal? 
+  ans=(Laughs) I'm proposing in Parliament that parties should devote more time to developmental politics. If one party promises to eradicate poverty in 10 years, another party should challenge it and promise to create economic prosperity.
+
+138
+  ques=It is said that a day before you released a statement saying you would not contest the presidential polls, you had prepared a statement outlining the reasons why you would be a candidate. Including that you would be a 'people's candidate', not a party's candidate. Is that true? 
+  ans=At no time did I prepare any such statement.
+
+139
+  ques=Did you consider yourself a candidate? Or tell anyone privately? 
+  ans=No, no. I received a lot of calls from various leaders asking me to contest and asking if I would agree to stand for election if I was nominated.
+
+140
+  ques=Did Mr Advani call you?
+  ans=Yes, a number of people called.
+
+141
+  ques=Did Mamata Banerjee call you? Mulayam Singh? 
+  ans=Yes, all of them called me and asked me to stand. Many of them had doubts about whether I would stand.
+
+142
+  ques=So finally, you took the decision not to contest based on the fact that you didn't have sufficient numbers. 
+  ans=Not only that. (Points at a photo on the table.) This photograph will reveal a graceful political system. I dream of that and will work for that.
+
+143
+  ques=But this photo is invalid because the Congress consciously never accepted your name this time.
+  ans=I want you to understand from this photograph, taken in 2002, how the political system should work-politicians must work together for the good of the nation.
+
+144
+  ques=Were they able to work together because Atal Bihari Vajpayee was then prime minister?
+  ans= Yes, leadership counts. A leader is a visionary, a missionary. He is not afraid of any problem, does not follow anyone but makes his own path.
+
+145
+  ques=You make a fairly bland statement that you were surprised Mrs Gandhi did not stake her claim (to become PM in 2004). If we revisit that period, what happened during the first meeting you had with Mrs Gandhi and Dr Manmohan Singh? 
+  ans=After they (the Congress) won the elections, no one from the party came to meet me for at least three days. As they were the single largest party, I called Mrs Gandhi and asked her to meet me. She arrived with Dr Manmohan Singh and said that the party had decided to make him the prime minister. If you remember, at the time many parties were against Mrs Gandhi becoming PM, despite the Supreme Court giving her the go-ahead. I had also received several letters against her becoming PM which I had forwarded to the government (the Congress).
+
+146
+  ques=So what was the government's response? 
+  ans=No, no, government doesn't reply (laughs).
+
+147
+  ques= Subramanian Swamy has said it was his intervention; he had raised the issue of citizenship. Then there were sms campaigns against Mrs Gandhi becoming PM. 
+  ans=Besides Mr Swamy, many other parties and individuals also wrote to me. We have to remember that after all those campaigns a judicial judgment was taken. After the Supreme Court announced that Mrs Gandhi could become PM, how could I supersede it?
+
+148
+  ques=Then what stopped her from staking claim to the PM's post? 
+  ans=That only Mrs Gandhi knows.
+
+149
+  ques=Did you meet Mr Vajpayee after he was defeated? 
+  ans=A number of times. He took the defeat in his stride. That's another example of leadership qualities. I remember when Narasimha Rao was PM, I was his scientific adviser for the atomic energy programme. Just before the 1996 elections, Rao told me, 'I'm going to Tirupati, stand by for nuclear tests.' Success seemed assured and he wanted to celebrate with a nuclear test. Unfortunately, he lost. Soon after, I got a call from both victor and vanquished; they wanted to meet me. Rao asked me to brief the new PM on the nuclear programme. Where matters of the country were concerned, work would go on. Nation is bigger than political party.
+
+150
+  ques=There is a famous story that you were blessed by Swami Sivananda in your youth. 
+  ans= As a child I wanted to be a pilot. So when I grew up, I applied to the Indian Air Force and was called for an interview to Dehradun. For 10 days I was put through a series of gruelling tests and then I found out I had failed the medical test. Despondent, I left Dehradun and on the banks of the Ganga, I saw Swami Sivananda surrounded by thousands of devotees. I sat in the last row. A little later he beckoned me and a French tourist and blessed us and gave us vishwaroopam, what Lord Krishna gave Arjun to dispel all his fears. When I returned to Delhi, a job was waiting for me: Senior scientific adviser in the Ministry of Defence.
+
+151
+  ques=In the book, you mention that you do the morning namaaz. 
+  ans=Yes, every day, whenever possible. My father was very strict about namaaz and would wake me up at 4 a.m. and take me to the mosque. I also fast.
+
+152
+  ques=So why is it that the so-called Muslim leaders in the North always have the feeling that you are not a practising Muslim?
+  ans= First of all, I am an Indian and try to be a good human being. People can call me XYZ, that's their freedom of expression. There is no conflict of any kind regarding my faith in Islam. I often visit temples and churches as well. God is everywhere.
+
+153
+  ques=You had several conversations with Vajpayee when he was PM. In your own assessment, do you consider Modi guilty of the Gujarat riots?
+  ans=I'm not there to pronounce a judgment on the Gujarat riots; that's the work of the judiciary. But I will narrate another incident about Vajpayee. When he took over the Cabinet, I was scientific adviser. He called me to his office one night and offered me a Cabinet post. I was busy with the Agni and nuclear programme. The next morning I went back to meet him. He sat in his room, surrounded by trays of sweets, which were a weakness of his. I told him I was sorry but I couldn't become a minister as my work on the two programmes would suffer. Later, I finished work on the programmes, left the government and went back to teaching. It was then that Vajpayee called me and asked me to become president.
+
+154
+  ques= Do you think Vajpayee considered Modi guilty of the riots? 
+  ans=I can't speak for him. Whether the riots were planned or just happened, we don't know but any right-thinking individual would not support any wrong being done to a community. When I visited Gujarat, I did not go to investigate what happened and whether Modi was right or wrong, but to remove the pain and accelerate relief work.
+
+155
+  ques=There is a controversy over whether Modi can be a prime ministerial candidate. What is your view? 
+  ans= It doesn't matter what I think. We are a democratic country; the people of India will decide.
+
+156
+  ques=Between Nitish Kumar and Modi, who would make a better PM? 
+  ans= (Laughs) Don't drag me into a controversy! I know both of them very well and they are good friends.
+
+157
+  ques=You just met Nitish Kumar...
+  ans=Yes, we discussed the presidential elections. He told me I had a lot of support within the NDA but did not have the numbers to win.
+
+158
+  ques=So you took his advice and decided not to contest.
+  ans= I also relied on my conscience. Conscience is my king.
+
+159
+  ques= Yet you put your conscience aside during the Bihar Assembly polls when the PM spoke to you and said the government would fall.
+  ans=The Bihar governor had sent the PM a note stating the Assembly was not functioning at all and the state government was in chaos. The PM called me in Moscow and said the situation had reached crisis point. He asked me for my views and said he had called a Cabinet meeting. I did some research of my own and then the PM called back in an hour and relayed the Cabinet's decision. So I took an informed decision.
+
+160
+  ques=But you write in your book that you almost resigned.
+  ans=Almost. Because the judiciary believed I took the decision sitting in Moscow, unaware that I was receiving up-to-the-minute information. They found fault with the governor, so I felt I should resign. But the vice-president was away on tour so there was a gap of a few hours before I could inform him. In that time period, I met the PM and we had a long chat during which he convinced me not to resign in the interest of the nation. So I didn't.
+
+161
+  ques=But so many people use that as an excuse to continue in office.
+  ans=Not me. Why should I cling to power? What will I gain by becoming the president again? I don't need anything from anybody.
+
+162
+  ques=Corruption is one of the most serious threats facing our nation today. If you were prime minister, would you pass the Lokpal bill?
+  ans=Corruption is a continuous process (laughs). There is no doubt that Anna (Hazare) is fighting for an important cause. But if the Lokpal bill is passed, it will just serve to fill up all our jails. Instead, I propose another movement for the youth (below 35) called 'What can I give'. It has just three components: Make your mother happy, make your father free from corruption and work towards saving the environment by planting trees. Anna heard about my idea and said it will take a long time to bear fruit but his mechanical process will only end up filling jails, while people's minds and hearts remain unchanged.
+
+163
+  ques=Anna Hazare says 15 ministers are corrupt. How much corruption did you see while in government?
+  ans=I didn't calculate (laughs).
+
+164
+  ques=How did you choose to become a scientist?
+  ans=In my school in Rameshwaram, I had a fantastic teacher, Siva Subramania Iyer, who taught us mathematics and science. He got me interested in learning science. Then there were a lot of birds on the island, and I used to watch their beautiful flight paths. That got me interested in aeronautics. I love the sea. I write poetry, I started learning the veena, a beautiful instrument. One day I'll play a concert so that I can make people happy. These days you have to make people happy around you [laughs].
+
+165
+  ques=What did you feel at the time of independence, when there were riots in India and the subcontinent was partitioned?
+  ans=I was in high school when Pandit Jawaharlal Nehru unfurled India's flag in New Delhi. What I still remember is that the next morning there were two photographs on the front page of the newspaper--one of Nehru unfurling the flag, and the other showing Mahatma Gandhi, the Father of the Nation, walking in Noakhali in Bengal, because of the communal riots there. You would normally expect the Father of the Nation to be at the flag-hoisting in the capital, but no, he was far away, removing the pain of the people. That taught me something about our culture that no university education could have.
+
+166
+  ques=What did India achieve with the nuclear tests in May?
+  ans=The tests are the culmination of the development of nuclear technology in India, leading to nuclear weaponization. The tests were the result of many years of work by our nuclear scientists and defense technologists. They have generated a very important data base on the fission device as well as the fusion system. Today, India is a nuclear weapons state.
+
+167
+  ques=But why did India need to go for nuclear weapons?
+  ans=We gave out three signals. In 1950, Nehru told the United Nations that the U.S. and the then Soviet Union should get rid of their nuclear weapons, go down to zero level. What happened? Both countries accumulated nuclear weapons, from dozens in the 1950s to thousands in 1974. We sent another signal by having a peaceful nuclear test in 1974. What happened then? By the 1990s the figure had reached 20,000 nuclear weapons. And there was proliferation. From one side to China, from the other side to Europe. And it didn't stop there. It even came to Pakistan. So two of our neighbors had nuclear weapons. In such a situation, we didn't have an alternative. For national security reasons, we had to explode nuclear devices.
+
+168
+  ques=How do you get back to zero level now?
+  ans=India can live without nuclear weapons. That's our dream, and it should be the dream of the U.S. also. Under the START II treaty, the nuclear arsenals on each side have been reduced to around 3,000 weapons. I asked a top U.S. defense official when it'll come down to zero. He said it won't, it's just a dream. That means the so-called nuclear weapons states want to perpetuate their nuclear weapons status. What's the alternative for India then, especially when two neighbors are armed with nuclear weapons? Still, our Prime Minister has announced, "You go to zero level, we are with you."
+
+169
+  ques=Is there a danger of a nuclear arms race on the subcontinent?
+  ans= I'm not an expert on the arms race. But India's national security is a supreme requirement. Just like any developed nation, we will do everything for that.
+
+170
+  ques=What about signing the Comprehensive Test Ban Treaty? Should India do it?
+  ans= The five tests we conducted in May generated sufficient data for nuclear weaponization. So both Dr. R. Chidambaram, the Atomic Energy Commission chief, and I have said we need no further tests. As for the CTBT, it is for the nation to take a holistic view on this.
+
+171
+  ques=But it's being said that if India is to weaponize properly it must conduct more tests.
+  ans=My job in the defense ministry is to ensure weaponization. There is enormous confusion in the minds of people that while some countries have done thousands of tests, how can India with limited tests go for a moratorium. After their tests, other countries produced 20,000 weapons of 70 different types. India's requirement is minimum deterrence. How many types of weapons we need decides how many tests we conduct. And the definition of minimum deterrence is that which deters our adversaries maximum. Actually, we'd planned six tests in May, but we stopped the last one as we felt we'd got the data we wanted.
+
+172
+  ques=Some Western scientists maintain that the strength of the tests was nowhere near what was claimed.
+  ans=What we achieved was very close to what we had predicted. The measuring of the nuclear yield depends on multiple parameters--the location and number of instruments, the geology of the area, the location of the seismic station in relation to the test site. The New Scientist took data from 125 seismic stations and their analysis closely matches ours. We measured it at 5.4 on the Richter scale, which is equivalent to a yield of 58 kilotons, plus or minus five kilotons. The New Scientist estimate is nearer 60 kilotons. Dr. Chidambaram, myself and our team reviewed the data and we're happy with our performance. After all, finally we're the developers and users.
+
+173
+  ques=How will the U.S. sanctions and the blacklisting of a number of scientific organizations affect your work?
+  ans=Science is global. Einstein's equation, E=mc2, has to reach everywhere. Science is a beautiful gift to humanity, we should not distort it. Science does not differentiate between multiple races. Actually, in India's case the so-called sanctions have ignited young minds. I'm witnessing it. Every day a new software or hardware product is coming out of my laboratories. No sanction can stand against ignited minds. After all, our nuclear program has faced sanctions for nearly three decades, the missile program has faced sanctions for the last one decade.
+
+174
+  ques=Will India go ahead with its missile development program despite the sanctions?
+  ans=India's missile program is a national program with capability for indigenous design, development and production. Originally, the Agni missile program was a technological demonstrator. But global and national security needs forced India to get into the Agni program in full swing. Today, India is a missile power. We are self reliant in our missile program--90% of our items are made in India. We do not depend on any country for any critical technology.
+
+175
+  ques=Why is it that India and Pakistan have so much in common, yet are at each other's throats?
+  ans=Europe fought for a hundred years. How many civil wars were there in the U.S.? It's a process. One day on the subcontinent also a transformation will take place.
+
+176
+  ques=Do you believe the subcontinent has a common civilization?
+  ans=It has--many languages, many religions, the cultural bonds are there. After all tomorrow's work has to be global. A Tamil poet wrote 4,000 years ago, "All the world's villages are one, all the people are relatives"--relatives, mind you, not just friends. That's the dream of Indian culture, the dream that the world will be one.
+
+177
+  ques=What are the top most recent achievements that India has reason to be proud of?
+  ans=The Indian economy is in an ascent phase. Particularly, our economy is growing at 8% to 9% per annum for the last four years. However, there is a need to control inflation by increasing productivity, particularly in the consumer sector. There is a marked improvement in our infrastructure such as roads, particularly rural roads, tele-density, international airports, metro-rail connectivity.In the agricultural sector, our food production has increased to 237 million tonnes. It is essential to give highest priority for agro-food processing. This will enhance earning capacity of farmers. In the automobile sector, India has become a leading manufacturer of cars, commercial vehicles and components. The Nano car is an important milestone in the small car segment. Work is also on to convert the automobile to run with emulsified fuel having 75% fuel and 25% water. The PSLV C9 mission launching precisely ten satellites, including eight satellites for international customers.
+
+178
+  ques=And where have we failed? What have been our greatest failures and where have we failed our people?
+  ans=While there has been all-round growth in many sectors during the last 60 years, the fact that there are still 220 million people living below the poverty line shows the failure of our system. Hence, connectivity and working with integrity are the immediate solutions. Providing Urban Amenities in Rural Areas (PURA) which gives physical connectivity, electronic connectivity and knowledge connectivity leading to economic connectivity in rural areas is the possible solution. We need 7000 PURA complexes for covering 600,000 villages in the country.
