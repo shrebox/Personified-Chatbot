@@ -3,6 +3,13 @@ import re
 from rake_nltk import Rake
 from gensim.models import KeyedVectors
 
+nltk.download('stopwords')
+st = set(stopwords.words('english'))
+stop_words=set()
+for s in st:
+	s=s.encode('ascii', 'ignore')
+	stop_words.add(s)
+
 # inputg = '../data/glove/glove.6B.300d.txt' # file used to make word vectors; can use some other sentence sets
 input_wordvector_embeddings = 'wrd2vec' #wrd2vec is glove vectors of the words file
 # glove2word2vec(inputg,input_wordvector_embeddings)
@@ -56,9 +63,22 @@ def get_quote(query,querytags):
    return maxx_quote
            
 def sentence_similarilty_wmd(model,sentence1,sentence2): # lower score means more similar
+
+
+  c=0
   sentence1 = sentence1.lower().split()
   sentence2 = sentence2.lower().split()
-  return model.wmdistance(sentence1, sentence2)
+  s1=word_tokenize(sentence1)
+  for ss in s1:
+      if ss not in stop_words:
+          c=c+1
+  
+  s2=word_tokenize(sentence2)
+  for ss in s2:
+      if ss not in stop_words:
+          c=c+1
+
+  return model.wmdistance(sentence1, sentence2)/(c*1.0)
 
 
 query=raw_input("Enter query\n")         
@@ -66,6 +86,8 @@ tag=r.extract_keywords_from_text(query)
 ranked_tags=r.get_ranked_phrases()
 print 'Quote='+str(get_quote(query,ranked_tags))
 print 'QNA='+str(get_qna(query,ranked_tags))
+
+
 
     
 
