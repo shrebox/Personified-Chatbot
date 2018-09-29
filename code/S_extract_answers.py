@@ -42,7 +42,7 @@ def get_qna(query,querytags):
   with open('tagged_qna.json', 'r') as f:
       qadict = json.load(f)    
       for index in qadict:
-          ans=jaccard(qadict[index]['tag'],querytags)+sentence_similarilty_wmd(model,qadict[index]['ans'],query)
+          ans=jaccard(qadict[index]['tag'],querytags)+(1-sentence_similarilty_wmd(model,qadict[index]['ans'],query))
           if ans>maxx:
               maxx=ans
               maxx_qna=qadict[index]['ans']
@@ -60,7 +60,7 @@ def get_quote(query,querytags):
       for book in quotesdict:        
           qlist=quotesdict[book]
           for quote in qlist:
-              ans=jaccard(quote['tag'],querytags)+sentence_similarilty_wmd(model,quote['quote'],query)
+              ans=jaccard(quote['tag'],querytags)+(1-sentence_similarilty_wmd(model,quote['quote'],query))
               if ans>maxx:
                   maxx=ans
                   maxx_quote=quote['quote']
@@ -84,9 +84,6 @@ def sentence_similarilty_wmd(model,sentence1,sentence2): # lower score means mor
           c=c+1
 
   sentence2 = sentence2.lower().split()
- 
-  
- 
   return model.wmdistance(sentence1, sentence2)/(c*1.0)
 
 
@@ -94,7 +91,7 @@ query=raw_input("Enter query\n")
 tag=r.extract_keywords_from_text(query)
 ranked_tags=r.get_ranked_phrases()
 print 'Quote='+str(get_quote(query,ranked_tags))
-print 'QNA='+str(get_qna(query,ranked_tags))
+print 'QNA='+str(get_qna(query,ranked_tags).encode('utf-8'))
 
 
 
