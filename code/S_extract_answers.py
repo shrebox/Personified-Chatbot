@@ -96,4 +96,3 @@ print 'QNA='+str(get_qna(query,ranked_tags).encode('utf-8'))
 
 
     
-
