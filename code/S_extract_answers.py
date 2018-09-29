@@ -2,6 +2,17 @@ import json
 import re
 from rake_nltk import Rake
 
+r = Rake() 
+
+def jaccard(a,b):
+
+    a1=set(a)
+    b1=set(b)
+    return len(a1.intersection(b1))/(1.0*len((a1).union(b1)))
+
+def sen_sim(a,b):
+    return 0
+
 def cleantext(text):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', text)
@@ -37,7 +48,7 @@ def get_quote(query,querytags):
                   maxx=ans
                   maxx_quote=quote['quote']
 
-    return maxx_quote
+   return maxx_quote
            
 
 query=raw_input("Enter query\n")         
