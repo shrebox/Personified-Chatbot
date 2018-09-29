@@ -2,6 +2,7 @@ import json
 import re
 from rake_nltk import Rake
 from gensim.models import KeyedVectors
+from nltk import word_tokenize
 
 nltk.download('stopwords')
 st = set(stopwords.words('english'))
