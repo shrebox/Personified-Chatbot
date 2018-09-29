@@ -1,6 +1,7 @@
 import json
 import re
 from rake_nltk import Rake
+from gensim.models import KeyedVectors
 
 r = Rake() 
 
@@ -50,6 +51,16 @@ def get_quote(query,querytags):
 
    return maxx_quote
            
+def sentence_similarilty_wmd(model,sentence1,sentence2): # lower score means more similar
+  sentence1 = sentence1.lower().split()
+  sentence2 = sentence2.lower().split()
+  return model.wmdistance(sentence1, sentence2)
+
+# inputg = '../data/glove/glove.6B.300d.txt' # file used to make word vectors; can use some other sentence sets
+input_wordvector_embeddings = 'wrd2vec' #wrd2vec is glove vectors of the words file
+# glove2word2vec(inputg,input_wordvector_embeddings)
+model = KeyedVectors.load_word2vec_format(input_wordvector_embeddings, binary=False)
+print "glove loading done"
 
 query=raw_input("Enter query\n")         
 tag=r.extract_keywords_from_text(query)
@@ -57,5 +68,6 @@ ranked_tags=r.get_ranked_phrases()
 print 'Quote='+str(get_quote(query,ranked_tags))
 print 'QNA='+str(get_qna(query,ranked_tags))
 
+print sentence_similarilty_wmd(model,"this is a test sentence","testing is important task")
     
 
