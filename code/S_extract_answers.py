@@ -86,7 +86,14 @@ def sentence_similarilty_wmd(model,sentence1,sentence2): # lower score means mor
   sentence2 = sentence2.lower().split()
   return model.wmdistance(sentence1, sentence2)/(c*1.0)
 
+def rogue2(gt,pred):
+    tokens = nltk.word_tokenize(gt)
+    bigramgt = set(nltk.bigrams(tokens))
+    tokens = nltk.word_tokenize(pred)
+    bigrampred = set(nltk.bigrams(tokens))
 
+    return(len(bigramgt.intersection(bigrampred))/len(bigramgt.union(bigrampred))*1.0)
+    
 query=raw_input("Enter query\n")         
 tag=r.extract_keywords_from_text(query)
 ranked_tags=r.get_ranked_phrases()
