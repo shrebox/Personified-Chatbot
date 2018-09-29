@@ -1,10 +1,14 @@
 import json
 import re
+import nltk
 from rake_nltk import Rake
 from gensim.models import KeyedVectors
 from nltk import word_tokenize
+from nltk.corpus import stopwords
 
 nltk.download('stopwords')
+nltk.download('punkt')
+
 st = set(stopwords.words('english'))
 stop_words=set()
 for s in st:
