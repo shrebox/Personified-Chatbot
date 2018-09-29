@@ -67,18 +67,22 @@ def sentence_similarilty_wmd(model,sentence1,sentence2): # lower score means mor
 
 
   c=0
-  sentence1 = sentence1.lower().split()
-  sentence2 = sentence2.lower().split()
-  s1=word_tokenize(sentence1)
+  s1=word_tokenize(sentence1.lower())
   for ss in s1:
       if ss not in stop_words:
           c=c+1
-  
-  s2=word_tokenize(sentence2)
+          
+  sentence1 = sentence1.lower().split()
+
+  s2=word_tokenize(sentence2.lower())
   for ss in s2:
       if ss not in stop_words:
           c=c+1
 
+  sentence2 = sentence2.lower().split()
+ 
+  
+ 
   return model.wmdistance(sentence1, sentence2)/(c*1.0)
 
 
