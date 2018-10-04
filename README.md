@@ -1,5 +1,6 @@
 # I-am-Kalam
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
+We are applying RNNs to generate answers to user queries. <br/>
 
 References <br />
 https://github.com/facebookarchive/NAMAS <br />
