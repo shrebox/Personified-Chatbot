@@ -12,3 +12,13 @@ http://nlp.town/blog/sentence-similarity/ <br />
 https://radimrehurek.com/gensim/models/keyedvectors.html <br />
 https://machinelearningmastery.com/develop-word-embeddings-python-gensim/ <br />
 https://github.com/epfml/sent2vec <br />
+
+<h5>RNNs</h5>
+https://pdfs.semanticscholar.org/ffbb/1d120c3c2881431933c6f928b851824913c4.pdf?_ga=2.35884901.416918627.1538253292-1431390683.1533485502<br />
+Link: https://people.cs.umass.edu/~ashutoshchou/persona_chatbot_report.pdf <br />
+Code: https://github.com/ashutosh-choudhary/conversational_agent_personified<br />
+Blog: https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent-neural-networks-2038f7f34636<br />
+<br />
+^some more links for code that have implemented kinda same thingy<br />
+https://github.com/manumathewthomas/Chat-with-Joey<br />
+https://github.com/inikdom/neural-chatbot<br />
