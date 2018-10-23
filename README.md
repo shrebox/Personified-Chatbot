@@ -23,3 +23,8 @@ Blog: https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent
 ^some more links for code that have implemented kinda same thingy<br />
 https://github.com/manumathewthomas/Chat-with-Joey<br />
 https://github.com/inikdom/neural-chatbot<br />
+
+
+
+MAIN LINK
+http://adventuresinmachinelearning.com/keras-lstm-tutorial/
