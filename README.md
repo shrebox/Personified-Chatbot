@@ -29,4 +29,4 @@ https://github.com/inikdom/neural-chatbot<br />
 MAIN LINK
 http://adventuresinmachinelearning.com/keras-lstm-tutorial/
 
-Tada!
+Tada! (:)
