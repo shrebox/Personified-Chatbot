@@ -9,7 +9,7 @@ Main file used: dataset/qna/tagged_qna.json {'id':{'question':value, 'tag':[valu
 
 Code: code/ directory contains codes from IR-IE model, seq2seq model, preprocessing and evaluation.
 
-IR-IE model <br>
+<h2>IR-IE model</h2> <br>
 	To run: 
 
 	$ python sen2vec_my.py
@@ -17,7 +17,7 @@ IR-IE model <br>
 	** sent2vec library needs to be installed from https://github.com/epfml/sent2vec.<br>
 	** pre trained model <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'>torontobooks_unigrams.bin</a> need to be downloaded and kept in same directory.
 
-seq2seq model <br>
+<h2>seq2seq model</h2> <br>
 	TO run: 
 
 	$ python main.py 
