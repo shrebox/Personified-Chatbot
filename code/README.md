@@ -2,6 +2,9 @@
 IR-IE model
 
 
-seq2seq model
-Run python main.py to train the system and save the model named as model.npz.
+seq2seq model<br>
+Run python main.py to train the system and save the model named as model.npz.<br>
 Set inference_mode=1 for testing purpose and run python main.py.
+
+Refrences
+https://github.com/tensorlayer/seq2seq-chatbot <br>
