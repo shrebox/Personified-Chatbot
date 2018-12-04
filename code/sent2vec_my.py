@@ -44,3 +44,5 @@ def sentence_similarity():
 	return sumresp.replace('\n',' ')
 
 print sentence_similarity()
+
+#https://github.com/epfml/sent2vec
