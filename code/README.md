@@ -3,6 +3,7 @@ IR-IE model <br>
 Run $ python sen2vec_my.py
 
 ** sent2vec library needs to be installed.
+** pre trained torontobooks_unigrams.bin needs to be installed from <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'></a>.
 
 seq2seq model <br>
 Run $ python main.py to train the system and save the model named as model.npz.<br>
