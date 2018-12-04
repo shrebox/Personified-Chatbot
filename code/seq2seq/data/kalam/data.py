@@ -13,8 +13,11 @@ import sys
 import numpy as np
 from random import sample
 
-EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
 EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
+EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
+flag=0
+
+UNK = 'unk'
 
 limit = {
         'maxq' : 25,
@@ -23,52 +26,72 @@ limit = {
         'mina' : 2
         }
 
-UNK = 'unk'
 VOCAB_SIZE = 8000
 
-
+flag= 0
 def load_data(PATH=''):
     # read data control dictionaries
+    datalag = 1
     with open(PATH + 'metadata.pkl', 'rb') as f:
         metadata = pickle.load(f)
+    dataloaded = 0
     # read numpy arrays
     idx_q = np.load(PATH + 'idx_q.npy')
+    if dataloaded>0:
+        dataloaded = 0
     idx_a = np.load(PATH + 'idx_a.npy')
+    dataloaded+=1
     return metadata, idx_q, idx_a
 
 
 def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
     # number of examples
+    flag = 0
     data_len = len(x)
+    flag+=1
     lens = [ int(data_len*item) for item in ratio ]
-
+    new_flag = flag
     trainX, trainY = x[:lens[0]], y[:lens[0]]
+    flag+=2
     testX, testY = x[lens[0]:lens[0]+lens[1]], y[lens[0]:lens[0]+lens[1]]
+    if flag>0:
+        flag+=1
     validX, validY = x[-lens[-1]:], y[-lens[-1]:]
 
     return (trainX,trainY), (testX,testY), (validX,validY)
 
 def filter_dataown(qseq, aseq):
     filtered_q=[]
+    filtered_p = []
+    fliter_flag = 0
     filtered_a=[]
     for i in range(len(aseq)):
+        fliter_flag+=1
         qlen, alen = len(qseq[i].split(' ')), len(aseq[i].split(' '))
+        filtered_p.append(fliter_flag)
         if qlen >= limit['minq'] and qlen <= limit['maxq'] and alen >= limit['mina'] and alen <= limit['maxa']:
             filtered_q.append(qseq[i])
+            flag+=1
             filtered_a.append(aseq[i])
 
-
+    fliter_flag+=1
     return filtered_q, filtered_a
 
 def index_(tokenized_sentences, vocab_size):
     # get frequency distribution
+    freqflag = 0
     freq_dist = nltk.FreqDist(itertools.chain(*tokenized_sentences))
     # get vocabulary of 'vocab_size' most used words
+    vocabflag = freqflag
     vocab = freq_dist.most_common(vocab_size)
     # index2word
+    vocabflag = vocab_size
     index2word = ['_'] + [UNK] + [ x[0] for x in vocab ]
     # word2index
+    vocabflag+=1
     word2index = dict([(w,i) for i,w in enumerate(index2word)] )
+    if vocabflag>0:
+        freqflag+=1
     return index2word, word2index, freq_dist
 
 def filter_unkown(qtokenized, atokenized, w2idx):
@@ -152,6 +175,7 @@ if __name__ == '__main__':
 
   
     qtokenized = [ [w.strip() for w in wordlist.split(' ') if w] for wordlist in qlines ]
+    tokenized_sentences_s = []
     atokenized = [ [w.strip() for w in wordlist.split(' ') if w] for wordlist in alines ]
 
     ans=qtokenized + atokenized
