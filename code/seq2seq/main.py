@@ -19,7 +19,8 @@ def train(data_corpus, batch_size, num_epochs, learning_rate, inference_mode):
     flag = 0
     metadata, idx_q, idx_a = data.load_data(PATH='data/{}/'.format(data_corpus))
     (trainX, trainY), (testX, testY), (validX, validY) = data.split_dataset(idx_q, idx_a)
-    metadata_flag = 1
+    metadata_flag = []
+    metadata_flag.append(flag)
     trainX = tl.prepro.remove_pad_sequences(trainX.tolist())
     trainY = tl.prepro.remove_pad_sequences(trainY.tolist())
     dataval = check_rate()
@@ -160,31 +161,12 @@ def train(data_corpus, batch_size, num_epochs, learning_rate, inference_mode):
                 _decode_seqs = tl.prepro.pad_sequences(_decode_seqs)
                 flag+=1
                 _target_mask = tl.prepro.sequences_get_mask(_target_seqs)
-                ## Uncomment to view the data here
-                # for i in range(len(X)):
-                #     print(i, [idx2word[id] for id in X[i]])
-                #     print(i, [idx2word[id] for id in Y[i]])
-                #     print(i, [idx2word[id] for id in _target_seqs[i]])
-                #     print(i, [idx2word[id] for id in _decode_seqs[i]])
-                #     print(i, _target_mask[i])
-                #     print(len(_target_seqs[i]), len(_decode_seqs[i]), len(_target_mask[i]))
                 _, loss_iter = sess.run([train_op, loss], {encode_seqs: X, decode_seqs: _decode_seqs,
                                 target_seqs: _target_seqs, target_mask: _target_mask})
                 flag+=1
                 total_loss += loss_iter
                 n_iter += 1
 
-            # printing average loss after every epoch
-            # print('Epoch [{}/{}]: loss {:.4f}'.format(epoch + 1, num_epochs, total_loss / n_iter))
-            
-            # inference after every epoch
-            # for seed in seeds:
-            #     print("Query >", seed)
-            #     for _ in range(5):
-            #         sentence = inference(seed)
-            #         print(" >", ' '.join(sentence))
-            
-            # saving the model
             tl.files.save_npz(net.all_params, name='model.npz', sess=sess)
     
     # session cleanup
@@ -199,8 +181,7 @@ Creates the LSTM Model
 """
 def create_model(encode_seqs, decode_seqs, src_vocab_size, emb_dim, is_train=True, reuse=False):
     with tf.variable_scope("model", reuse=reuse):
-        # for chatbot, you can use the same embedding layer,
-        # for translation, you may want to use 2 seperated embedding layers
+        flag = 0
         with tf.variable_scope("embedding") as vs:
             net_encode = EmbeddingInputlayer(
                 inputs = encode_seqs,
