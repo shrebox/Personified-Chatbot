@@ -25,7 +25,7 @@ Code: code/ directory contains codes from IR-IE model, seq2seq model, preprocess
 	to train the system and save the model named as model.npz.<br>
 	Set inference_mode=1 for testing purpose and run python main.py.
 
-References <br />
+<h2>References</h2> <br />
 https://github.com/facebookarchive/NAMAS <br />
 https://github.com/zwc12/Summarization <br />
 <h5>For Similarity</h5> 
