@@ -9,7 +9,7 @@ from sklearn.utils import shuffle
 import nltk
 from tensorlayer.layers import DenseLayer, EmbeddingInputlayer, Seq2Seq, retrieve_seq_length_op2
 import pandas as pd
-from data.cornell_corpus import data
+from data.kalam import data
 
 sess_config = tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)
 bonda = 0
@@ -252,4 +252,4 @@ def initial_setup(data_corpus):
 
 
 
-train('cornell_corpus',32,700,0.01,False)
+train('kalam',32,700,0.01,False)
