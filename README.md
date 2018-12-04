@@ -1,4 +1,4 @@
-Readme for @ https://github.com/shrebox/I-am-Kalam
+Readme for GROUP 6 @ https://github.com/shrebox/I-am-Kalam
 # I-am-Kalam
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
 We are applying RNNs to generate answers to user queries. <br/>
@@ -12,8 +12,8 @@ Code: code/ directory contains codes from IR-IE model, seq2seq model, preprocess
 IR-IE model <br>
 	To run: $ python sen2vec_my.py
 
-	** sent2vec library needs to be installed.<br>
-	** pre trained model <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'>torontobooks_unigrams.bin</a> needs to be installed.
+	** sent2vec library needs to be installed from https://github.com/epfml/sent2vec.<br>
+	** pre trained model <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'>torontobooks_unigrams.bin</a> need to be downloaded and kept in same directory.
 
 seq2seq model <br>
 	TO run: $ python main.py to train the system and save the model named as model.npz.<br>
