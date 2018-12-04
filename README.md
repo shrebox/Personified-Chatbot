@@ -1,6 +1,10 @@
+Readme for @ https://github.com/shrebox/I-am-Kalam
 # I-am-Kalam
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
 We are applying RNNs to generate answers to user queries. <br/>
+
+Dataset: Dataset has been scrapped from interviews available on various websites form the google search results.
+Main file name: tagged_qna.json {'id':{'question':value, 'tag':[value], 'ans': value}}
 
 IR-IE model <br>
 To run: $ python sen2vec_my.py
