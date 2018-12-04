@@ -1,0 +1,177 @@
+
+import random
+
+import nltk
+import itertools
+from collections import defaultdict
+
+import numpy as np
+
+import pickle
+import sys
+
+import numpy as np
+from random import sample
+
+EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
+EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
+
+limit = {
+        'maxq' : 25,
+        'minq' : 2,
+        'maxa' : 25,
+        'mina' : 2
+        }
+
+UNK = 'unk'
+VOCAB_SIZE = 8000
+
+
+def load_data(PATH=''):
+    # read data control dictionaries
+    with open(PATH + 'metadata.pkl', 'rb') as f:
+        metadata = pickle.load(f)
+    # read numpy arrays
+    idx_q = np.load(PATH + 'idx_q.npy')
+    idx_a = np.load(PATH + 'idx_a.npy')
+    return metadata, idx_q, idx_a
+
+
+def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
+    # number of examples
+    data_len = len(x)
+    lens = [ int(data_len*item) for item in ratio ]
+
+    trainX, trainY = x[:lens[0]], y[:lens[0]]
+    testX, testY = x[lens[0]:lens[0]+lens[1]], y[lens[0]:lens[0]+lens[1]]
+    validX, validY = x[-lens[-1]:], y[-lens[-1]:]
+
+    return (trainX,trainY), (testX,testY), (validX,validY)
+
+def filter_dataown(qseq, aseq):
+    filtered_q=[]
+    filtered_a=[]
+    for i in range(len(aseq)):
+        qlen, alen = len(qseq[i].split(' ')), len(aseq[i].split(' '))
+        if qlen >= limit['minq'] and qlen <= limit['maxq'] and alen >= limit['mina'] and alen <= limit['maxa']:
+            filtered_q.append(qseq[i])
+            filtered_a.append(aseq[i])
+
+
+    return filtered_q, filtered_a
+
+def index_(tokenized_sentences, vocab_size):
+    # get frequency distribution
+    freq_dist = nltk.FreqDist(itertools.chain(*tokenized_sentences))
+    # get vocabulary of 'vocab_size' most used words
+    vocab = freq_dist.most_common(vocab_size)
+    # index2word
+    index2word = ['_'] + [UNK] + [ x[0] for x in vocab ]
+    # word2index
+    word2index = dict([(w,i) for i,w in enumerate(index2word)] )
+    return index2word, word2index, freq_dist
+
+def filter_unkown(qtokenized, atokenized, w2idx):
+
+    filtered_q=[]
+    filtered_a=[]
+
+    for qline, aline in zip(qtokenized, atokenized):
+        unk_count_q = len([ w for w in qline if w not in w2idx ])
+        unk_count_a = len([ w for w in aline if w not in w2idx ])
+        if unk_count_a <= 2:
+            if unk_count_q > 0:
+                if unk_count_q/len(qline) > 0.2:
+                    pass
+            filtered_q.append(qline)
+            filtered_a.append(aline)
+
+    return filtered_q, filtered_a
+
+def zero_padown(qtokenized, atokenized, w2idx):
+  
+
+    idx_q = np.zeros([len(atokenized), limit['maxq']], dtype=np.int32)
+    idx_a = np.zeros([len(atokenized), limit['maxa']], dtype=np.int32)
+
+    for i in range(len(atokenized)):
+
+        indices = []
+        for q in qtokenized[i]:
+            if q in w2idx:
+                indices.append(w2idx[q])
+            else:
+                indices.append(lookup[UNK])
+        findices=indices + [0]*(limit['maxq'] - len(qtokenized[i]))
+        q_indices = findices
+        idx_q[i] = np.array(q_indices)
+
+        indices = []
+        for q in atokenized[i]:
+            if q in w2idx:
+                indices.append(w2idx[q])
+            else:
+                indices.append(lookup[UNK])
+        findices=indices + [0]*(limit['maxa'] - len(atokenized[i]))
+        a_indices = findices
+        idx_a[i] = np.array(a_indices)    
+
+    return idx_q, idx_a
+
+
+def decode(sequence, lookup, separator=''): # 0 used for padding, is ignored
+    return separator.join([ lookup[element] for element in sequence if element ])
+
+if __name__ == '__main__':
+    
+    qna=np.load('raw_data/qna_dict.npy').item()
+    questions=[]
+    answers=[]
+    for k,v in qna.items():
+        questions.append(k)
+        answers.append(v)
+        
+    questions = [ line.lower() for line in questions ]
+    answers = [ line.lower() for line in answers ]
+
+    questions2=[]
+    answers2=[]
+    for line in questions:
+        k=''.join([ ch for ch in line if ch in EN_WHITELIST ])
+        questions2.append(k)
+
+    for line in answers:
+        k=''.join([ ch for ch in line if ch in EN_WHITELIST ])
+        answers2.append(k)
+
+    questions=questions2
+    answers=answers2
+
+
+    qlines, alines = filter_dataown(questions, answers)
+
+  
+    qtokenized = [ [w.strip() for w in wordlist.split(' ') if w] for wordlist in qlines ]
+    atokenized = [ [w.strip() for w in wordlist.split(' ') if w] for wordlist in alines ]
+
+    ans=qtokenized + atokenized
+    idx2w, w2idx, freq_dist = index_( ans, vocab_size=VOCAB_SIZE)
+
+    # filter out sentences with too many unknowns
+    # print('\n >> Filter Unknowns')
+    qtokenized, atokenized = filter_unkown(qtokenized, atokenized, w2idx)
+    # print('\n Final dataset len : ' + str(len(qtokenized)))
+
+
+    # print('\n >> Zero Padding')
+    idx_q, idx_a = zero_padown(qtokenized, atokenized, w2idx)
+
+    # print('\n >> Save numpy arrays to disk')
+    # save them
+    np.save('idx_q.npy', idx_q)
+    np.save('idx_a.npy', idx_a)
+
+    metadata = {'w2idx' : w2idx,'idx2w' : idx2w,'limit' : limit,'freq_dist' : freq_dist}
+
+    with open('metadata.pkl', 'wb') as f:
+        pickle.dump(metadata, f)
