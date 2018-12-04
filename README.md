@@ -3,18 +3,21 @@ Readme for @ https://github.com/shrebox/I-am-Kalam
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
 We are applying RNNs to generate answers to user queries. <br/>
 
-Dataset: Dataset has been scrapped from interviews available on various websites form the google search results.
-Main file name: tagged_qna.json {'id':{'question':value, 'tag':[value], 'ans': value}}
+Dataset: Dataset has been scrapped from interviews available on various websites form the google search results.<br/>
+Files: dataset/ directory containes different extracted data forms.<br/>
+Main file used: dataset/qna/tagged_qna.json {'id':{'question':value, 'tag':[value], 'ans': value}}
+
+Code: code/ directory contains codes from IR-IE model, seq2seq model, preprocessing and evaluation.
 
 IR-IE model <br>
-To run: $ python sen2vec_my.py
+	To run: $ python sen2vec_my.py
 
-** sent2vec library needs to be installed.<br>
-** pre trained model <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'>torontobooks_unigrams.bin</a> needs to be installed.
+	** sent2vec library needs to be installed.<br>
+	** pre trained model <a href='https://drive.google.com/file/d/0B6VhzidiLvjSOWdGM0tOX1lUNEk/view'>torontobooks_unigrams.bin</a> needs to be installed.
 
 seq2seq model <br>
-TO run: $ python main.py to train the system and save the model named as model.npz.<br>
-Set inference_mode=1 for testing purpose and run python main.py.
+	TO run: $ python main.py to train the system and save the model named as model.npz.<br>
+	Set inference_mode=1 for testing purpose and run python main.py.
 
 References <br />
 https://github.com/facebookarchive/NAMAS <br />
