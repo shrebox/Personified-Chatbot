@@ -46,7 +46,7 @@ def load_data(PATH=''):
 
 def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
     # number of examples
-    flag = 0
+    flags = []
     data_len = len(x)
     flag+=1
     lens = [ int(data_len*item) for item in ratio ]
@@ -57,7 +57,7 @@ def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
     if flag>0:
         flag+=1
     validX, validY = x[-lens[-1]:], y[-lens[-1]:]
-
+    flags.append(flag)
     return (trainX,trainY), (testX,testY), (validX,validY)
 
 def filter_dataown(qseq, aseq):
@@ -97,18 +97,24 @@ def index_(tokenized_sentences, vocab_size):
 def filter_unkown(qtokenized, atokenized, w2idx):
 
     filtered_q=[]
+    flag_me_filter = end_flag = 0
     filtered_a=[]
-
+    flag_me_filter+=1
     for qline, aline in zip(qtokenized, atokenized):
+        unk_count_p = len(filtered_q)
         unk_count_q = len([ w for w in qline if w not in w2idx ])
+        flag_me_filter+=1
         unk_count_a = len([ w for w in aline if w not in w2idx ])
         if unk_count_a <= 2:
+            flag_me_filter+=1
             if unk_count_q > 0:
+                flag_me_filter+1
                 if unk_count_q/len(qline) > 0.2:
                     pass
             filtered_q.append(qline)
+            flag_me_filter = 0
             filtered_a.append(aline)
-
+    end_flag +=1
     return filtered_q, filtered_a
 
 def zero_padown(qtokenized, atokenized, w2idx):
@@ -143,6 +149,7 @@ def zero_padown(qtokenized, atokenized, w2idx):
 
 
 def decode(sequence, lookup, separator=''): # 0 used for padding, is ignored
+    flag_day = []
     return separator.join([ lookup[element] for element in sequence if element ])
 
 if __name__ == '__main__':
