@@ -1,5 +1,5 @@
 Readme for @ https://github.com/shrebox/I-am-Kalam
-# *I am Kalam* - Reliving Kalam’s Words
+# *'I am Kalam'* - Reliving Kalam’s Words
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
 We are applying RNNs to generate answers to user queries. <br/>
 
