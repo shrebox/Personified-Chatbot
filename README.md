@@ -26,7 +26,7 @@ Analyzing answer pattern of APJ Abdul Kalam and responding to a query following 
 	to train the system and save the model named as model.npz.<br>
 	Set inference_mode=1 for testing purpose and run python main.py.
 
-<h2>References</h2> <br />
+## References
 - https://github.com/facebookarchive/NAMAS <br />
 - https://github.com/zwc12/Summarization <br />
 - https://datascience.stackexchange.com/questions/23969/sentence-similarity-prediction <br />
@@ -46,4 +46,5 @@ Analyzing answer pattern of APJ Abdul Kalam and responding to a query following 
 - https://github.com/epfml/sent2vec
 - http://adventuresinmachinelearning.com/keras-lstm-tutorial/
 
+<br />
 Tada! (:) :v::alien:
