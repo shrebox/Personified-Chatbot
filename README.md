@@ -3,14 +3,12 @@
 ![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
 
 # *'I am Kalam'* - Reliving Kalam’s Words
-Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. <br />
-We are applying RNNs to generate answers to user queries. <br/>
 
-Dataset: Dataset has been scrapped from interviews available on various websites form the google search results.<br/>
-Files: dataset/ directory containes different extracted data forms.<br/>
-Main file used: dataset/qna/tagged_qna.json {'id':{'question':value, 'tag':[value], 'ans': value}}
+Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. We are applying RNNs to generate answers to user queries. 
 
-Code: code/ directory contains codes from IR-IE model, seq2seq model, preprocessing and evaluation.
+**Dataset**: Dataset has been scrapped from interviews available on various websites form the google search results.<br/>
+**Files**: dataset/ directory containes different extracted data forms.<br/>
+**Code**: code/ directory contains codes from IR-IE model, seq2seq model, preprocessing and evaluation.
 
 <h2>IR-IE model</h2> <br>
 	To run: 
