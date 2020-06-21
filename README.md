@@ -1,7 +1,5 @@
 <!---Readme for @ https://github.com/shrebox/I-am-Kalam--->
 
-![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
-
 # *'I am Kalam'* - Reliving Kalam’s Words
 
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. We are applying RNNs to generate answers to user queries. 
@@ -46,3 +44,6 @@ Analyzing answer pattern of APJ Abdul Kalam and responding to a query following 
 
 <br>
 Tada! (:) :v::alien:
+
+
+![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
