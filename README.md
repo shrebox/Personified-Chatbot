@@ -45,4 +45,4 @@ Analyzing answer pattern of APJ Abdul Kalam and responding to a query following 
 - http://adventuresinmachinelearning.com/keras-lstm-tutorial/
 
 <br>
-Tada! (:) :v::alien: :/play tada:
+Tada! (:) :v::alien: 
