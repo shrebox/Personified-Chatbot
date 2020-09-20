@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
 
+Cite work [here](https://www.researchgate.net/publication/343963547_I_am_Kalam_-_Analyzing_and_Generating_Kalam's_Answer_Patterns)!
+
 # *'I am Kalam'* - Reliving Kalam’s Words
 
 :bulb: The work was presented at the [_Workshop on AI for Computational Social Systems (ACSS 2019), IIIT-Delhi_](http://lcs2.iiitd.edu.in/acss19/).
