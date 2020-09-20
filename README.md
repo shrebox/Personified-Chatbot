@@ -4,6 +4,8 @@
 
 # *'I am Kalam'* - Reliving Kalam’s Words
 
+:bulb: The work was presented at the [_Workshop on AI for Computational Social Systems (ACSS 2019), IIIT-Delhi_](http://lcs2.iiitd.edu.in/acss19/).
+
 Analyzing answer pattern of APJ Abdul Kalam and responding to a query following his answering pattern. We are applying RNNs to generate answers to user queries. 
 
 > **Dataset**: Dataset has been scrapped from interviews available on various websites form the google search results.<br/>
