@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.28964.09602.svg)](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.28964.09602?_sg%5B0%5D=ApGORUVG1cBpNrnt9rvmz-ph0V9Q1S-B0MNYPCFbHB_CIqf9M4-2aqvNXMKavH-5plON5qiVr3nw4ots-C1J88exnw.ieGbmNeyS6_ywMiraavaTI9s-uUHq6x6S6AXlePwTKqf6VCcbbdeh5nirtz6xeJVCu7udFxrw7bJ-b3HqXMQbA)
+
 <!---Readme for @ https://github.com/shrebox/I-am-Kalam--->
 
 ![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
