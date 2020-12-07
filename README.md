@@ -4,6 +4,18 @@
 
 ![alt text](https://github.com/shrebox/Personified-Chatbot-I-am-Kalam/blob/master/Poster-1.jpg)
 
+If you end up using this code or the data, please cite our paper:
+```
+@unknown{unknown,
+author = {Arya, Shreyash and Uberoi, Anannya and Dhawan, Sarthika and Chakraborty, Tanmoy},
+year = {2019},
+month = {02},
+pages = {},
+title = {“I am Kalam” - Analyzing and Generating Kalam's Answer Patterns},
+doi = {10.13140/RG.2.2.28964.09602}
+}
+
+```
 Cite work [here](https://www.researchgate.net/publication/343963547_I_am_Kalam_-_Analyzing_and_Generating_Kalam's_Answer_Patterns)!
 
 # *'I am Kalam'* - Reliving Kalam’s Words
